@@ -16,7 +16,7 @@ jobs:
 
       - name: Download headsets data
         run: |
-          curl -o headsets.json https://vr-compare.com/api/headsets?hidden=false&detailLevel=full
+          curl -o headsets.json "https://vr-compare.com/api/headsets?hidden=false&detailLevel=full"
 
       - name: Install jq
         run: |
