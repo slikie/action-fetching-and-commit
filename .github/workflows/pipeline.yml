@@ -17,12 +17,7 @@ jobs:
       - name: Download headsets data
         run: |
           curl -o headsets.json "https://vr-compare.com/api/headsets?hidden=false&detailLevel=full"
-
-      - name: Install jq
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-
+          
       - name: Process headsets data
         run: |
           jq 'map(. + (.specData | to_entries | map(select(.value.note != "")) | map({"specData-\(.key)": .value.note}) | add) | del(.specData)) | map(.manufacturer = .manufacturer.name)' headsets.json > headset-format.json
