@@ -1,0 +1,36 @@
+
+name: Download and process headsets data
+
+on:
+  workflow_dispatch:
+    inputs: {}
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  download-and-process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download headsets data
+        run: |
+          curl -o headsets.json https://vr-compare.com/api/headsets?hidden=false&detailLevel=full
+
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Process headsets data
+        run: |
+          jq 'map(. + (.specData | to_entries | map(select(.value.note != "")) | map({"specData-\(.key)": .value.note}) | add) | del(.specData)) | map(.manufacturer = .manufacturer.name)' headsets.json > headset-format.json
+
+      - name: Commit updated file
+        run: |
+          git add headset-format.json
+          git config --global user.email "github-actions-bot@example.com"
+          git config --global user.name "GitHub Actions Bot"
+          git commit -m "Update headset-format.json"
+          git push
