@@ -93,13 +93,13 @@
     "manufacturer": "Lynx",
     "page": {
       "_id": "NAbcZGzoQ",
-      "views24h": 3,
-      "views7d": 61,
-      "viewsAllTime": 2825,
+      "views24h": 1,
+      "views7d": 49,
+      "viewsAllTime": 2826,
       "url": "/headset/lynxr1",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.607Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.469Z",
       "__v": 0,
-      "views30d": 133
+      "views30d": 131
     },
     "id": "U8sFIheUl",
     "specData-price": "Enterprise edition: $1,299, $1,398 with controllers",
@@ -192,13 +192,13 @@
     "manufacturer": "VRgineers",
     "page": {
       "_id": "rGna9ckbmD",
-      "views24h": 1,
-      "views7d": 12,
-      "viewsAllTime": 822,
+      "views24h": 0,
+      "views7d": 13,
+      "viewsAllTime": 823,
       "url": "/headset/vrgineersxtal",
-      "analyticsLastRetrieved": "2025-02-25T06:48:46.685Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.751Z",
       "__v": 0,
-      "views30d": 38
+      "views30d": 37
     },
     "id": "HIJtMLV4o3r"
   },
@@ -289,10 +289,10 @@
     "page": {
       "_id": "igSngrN-Hj",
       "views24h": 4,
-      "views7d": 43,
-      "viewsAllTime": 2027,
+      "views7d": 44,
+      "viewsAllTime": 2031,
       "url": "/headset/vrgineersxtal8k",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.609Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.471Z",
       "__v": 0,
       "views30d": 123
     },
@@ -355,13 +355,13 @@
     "manufacturer": "VRgineers",
     "page": {
       "_id": "HyFGAAT0fe",
-      "views24h": 1,
-      "views7d": 16,
-      "viewsAllTime": 2372,
+      "views24h": 3,
+      "views7d": 19,
+      "viewsAllTime": 2377,
       "url": "/headset/vrgineersxtal3",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.517Z",
+      "analyticsLastRetrieved": "2025-02-26T11:51:59.956Z",
       "__v": 0,
-      "views30d": 99
+      "views30d": 97
     },
     "id": "rG4L3REGz",
     "specData-refreshRate": "*2K mode. 4K mode: 75 Hz",
@@ -422,13 +422,13 @@
     "manufacturer": "VRgineers",
     "page": {
       "_id": "ElUEJAnsh_",
-      "views24h": 2,
-      "views7d": 27,
+      "views24h": 1,
+      "views7d": 26,
       "viewsAllTime": 2170,
       "url": "/headset/vrgineersxtal3mixedreality",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.610Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.472Z",
       "__v": 0,
-      "views30d": 97
+      "views30d": 94
     },
     "id": "3OZNWRHku",
     "specData-refreshRate": "*2K mode. 4K mode: 75 Hz",
@@ -500,9 +500,9 @@
       "views24h": 0,
       "views7d": 7,
       "viewsAllTime": 560,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.519Z",
+      "analyticsLastRetrieved": "2025-02-26T14:25:03.978Z",
       "__v": 0,
-      "views30d": 31
+      "views30d": 29
     },
     "id": "DK80nzNZ0",
     "specData-ipdRange": "Independent IPD adjustment",
@@ -577,9 +577,9 @@
       "views24h": 0,
       "views7d": 9,
       "viewsAllTime": 577,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.610Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.472Z",
       "__v": 0,
-      "views30d": 44
+      "views30d": 41
     },
     "id": "qwkbh_8fq",
     "specData-refreshRate": "\"60-90 Hz\"",
@@ -672,13 +672,13 @@
     "manufacturer": "Lenovo",
     "page": {
       "_id": "oJpS1f3liO",
-      "views24h": 4,
-      "views7d": 15,
-      "viewsAllTime": 796,
+      "views24h": 2,
+      "views7d": 17,
+      "viewsAllTime": 798,
       "url": "/headset/lenovomiragevrs3",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.610Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.472Z",
       "__v": 0,
-      "views30d": 56
+      "views30d": 58
     },
     "id": "KAOPwiHVgT7"
   },
@@ -799,13 +799,13 @@
     "manufacturer": "Lenovo",
     "page": {
       "_id": "tygGzDxtEa",
-      "views24h": 16,
-      "views7d": 65,
-      "viewsAllTime": 3339,
+      "views24h": 2,
+      "views7d": 56,
+      "viewsAllTime": 3348,
       "url": "/headset/lenovoexplorer",
-      "analyticsLastRetrieved": "2025-02-25T02:13:35.506Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.506Z",
       "__v": 0,
-      "views30d": 204
+      "views30d": 188
     },
     "id": "NL_JmebjWjp"
   },
@@ -900,11 +900,11 @@
     "manufacturer": "Lenovo",
     "page": {
       "_id": "socJatDjTD",
-      "views24h": 1,
-      "views7d": 13,
+      "views24h": 0,
+      "views7d": 10,
       "viewsAllTime": 955,
       "url": "/headset/lenovomiragesolo",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.611Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.473Z",
       "__v": 0,
       "views30d": 66
     },
@@ -976,13 +976,13 @@
     "manufacturer": "Lenovo",
     "page": {
       "_id": "tUq0U8v_kN",
-      "views24h": 6,
-      "views7d": 37,
-      "viewsAllTime": 2851,
+      "views24h": 10,
+      "views7d": 41,
+      "viewsAllTime": 2859,
       "url": "/headset/lenovothinkrealitya3",
-      "analyticsLastRetrieved": "2025-02-25T07:25:45.992Z",
+      "analyticsLastRetrieved": "2025-02-26T09:32:21.309Z",
       "__v": 0,
-      "views30d": 83
+      "views30d": 88
     },
     "id": "MplTgXoYM",
     "specData-deviceType": "Can also be powered by an Android smartphone"
@@ -1051,12 +1051,12 @@
     "page": {
       "_id": "TbyXi_n4Z",
       "url": "/headset/lenovolegionvr700",
-      "views24h": 2,
-      "views7d": 17,
-      "viewsAllTime": 5051,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.519Z",
+      "views24h": 4,
+      "views7d": 22,
+      "viewsAllTime": 5056,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.752Z",
       "__v": 0,
-      "views30d": 84
+      "views30d": 89
     },
     "id": "Q5VS2El78",
     "specData-price": "¥2,999",
@@ -1107,12 +1107,12 @@
     "page": {
       "_id": "LCXCLZA6R",
       "url": "/headset/lenovoglassest1",
-      "views24h": 12,
+      "views24h": 11,
       "views7d": 77,
-      "viewsAllTime": 5973,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.520Z",
+      "viewsAllTime": 5988,
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.453Z",
       "__v": 0,
-      "views30d": 330
+      "views30d": 344
     },
     "id": "pEEE5EDVo",
     "specData-deviceType": "Can also be powered by a smartphone or tablet",
@@ -1196,12 +1196,12 @@
     "page": {
       "_id": "QhDoT7FqnD",
       "url": "/headset/lenovothinkrealityvrx",
-      "views24h": 2,
-      "views7d": 25,
-      "viewsAllTime": 3987,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.526Z",
+      "views24h": 3,
+      "views7d": 22,
+      "viewsAllTime": 3991,
+      "analyticsLastRetrieved": "2025-02-26T04:04:58.042Z",
       "__v": 0,
-      "views30d": 96
+      "views30d": 97
     },
     "id": "N3lN6nqec",
     "specData-headstrap": "Battery contained in headstrap",
@@ -1291,13 +1291,13 @@
     "manufacturer": "Xiaomi",
     "page": {
       "_id": "C8OJOHGrKA",
-      "views24h": 10,
-      "views7d": 85,
-      "viewsAllTime": 4235,
+      "views24h": 12,
+      "views7d": 83,
+      "viewsAllTime": 4247,
       "url": "/headset/xiaomimivr",
-      "analyticsLastRetrieved": "2025-02-25T07:45:34.771Z",
+      "analyticsLastRetrieved": "2025-02-26T11:11:39.368Z",
       "__v": 0,
-      "views30d": 439
+      "views30d": 419
     },
     "id": "Gn_R1nPFigO"
   },
@@ -1354,12 +1354,12 @@
     "page": {
       "_id": "SkDzjKHN85",
       "views24h": 11,
-      "views7d": 53,
-      "viewsAllTime": 3432,
+      "views7d": 57,
+      "viewsAllTime": 3444,
       "url": "/headset/xiaomismartglasses",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.528Z",
+      "analyticsLastRetrieved": "2025-02-26T03:51:16.802Z",
       "__v": 0,
-      "views30d": 178
+      "views30d": 186
     },
     "id": "Dp6TLH4Gv"
   },
@@ -1411,12 +1411,12 @@
     "page": {
       "_id": "OwJG_BSan",
       "url": "/headset/xiaomimijia",
-      "views24h": 7,
-      "views7d": 26,
-      "viewsAllTime": 4694,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.611Z",
+      "views24h": 9,
+      "views7d": 29,
+      "viewsAllTime": 4700,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.473Z",
       "__v": 0,
-      "views30d": 103
+      "views30d": 109
     },
     "id": "wHlIeEbab",
     "specData-price": "¥2699. Crowdfunding price: ¥2499",
@@ -1511,10 +1511,10 @@
     "page": {
       "_id": "ZE1c69h6T9",
       "views24h": 0,
-      "views7d": 6,
+      "views7d": 3,
       "viewsAllTime": 840,
       "url": "/headset/medionerazerx1000",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.522Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.473Z",
       "__v": 0,
       "views30d": 34
     },
@@ -1609,13 +1609,13 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "BP4KLFjQmv",
-      "views24h": 6,
-      "views7d": 41,
-      "viewsAllTime": 3815,
+      "views24h": 10,
+      "views7d": 40,
+      "viewsAllTime": 3823,
       "url": "/headset/picog2",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.611Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.473Z",
       "__v": 0,
-      "views30d": 184
+      "views30d": 188
     },
     "id": "0eyn_fC3J_",
     "specData-price": "64 GB model: $299",
@@ -1711,13 +1711,13 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "aBjP24rxSK",
-      "views24h": 9,
-      "views7d": 85,
-      "viewsAllTime": 5453,
+      "views24h": 6,
+      "views7d": 87,
+      "viewsAllTime": 5464,
       "url": "/headset/picog24k",
-      "analyticsLastRetrieved": "2025-02-25T05:16:29.953Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 310
+      "views30d": 315
     },
     "id": "BxxcRtrfywU"
   },
@@ -1814,10 +1814,10 @@
     "page": {
       "_id": "kkw8Z4fQIY",
       "views24h": 2,
-      "views7d": 14,
-      "viewsAllTime": 1106,
+      "views7d": 16,
+      "viewsAllTime": 1108,
       "url": "/headset/piconeo2eye",
-      "analyticsLastRetrieved": "2025-02-25T06:48:36.912Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.474Z",
       "__v": 0,
       "views30d": 73
     },
@@ -1907,13 +1907,13 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "Q6dmyBV_Tx",
-      "views24h": 0,
-      "views7d": 15,
-      "viewsAllTime": 1870,
+      "views24h": 1,
+      "views7d": 11,
+      "viewsAllTime": 1871,
       "url": "/headset/picogoblin",
-      "analyticsLastRetrieved": "2025-02-25T07:50:28.374Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.752Z",
       "__v": 0,
-      "views30d": 74
+      "views30d": 73
     },
     "id": "MgUiohKYrCv"
   },
@@ -2012,13 +2012,13 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "q3lhgGXbsNP",
-      "views24h": 4,
-      "views7d": 37,
-      "viewsAllTime": 2926,
+      "views24h": 2,
+      "views7d": 31,
+      "viewsAllTime": 2930,
       "url": "/headset/piconeo2",
-      "analyticsLastRetrieved": "2025-02-25T07:50:46.513Z",
+      "analyticsLastRetrieved": "2025-02-26T10:16:11.608Z",
       "__v": 0,
-      "views30d": 143
+      "views30d": 142
     },
     "id": "MO4ecaDcP4H"
   },
@@ -2123,13 +2123,13 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "Cqd7cqcsUa7",
-      "views24h": 7,
-      "views7d": 29,
-      "viewsAllTime": 4644,
+      "views24h": 4,
+      "views7d": 33,
+      "viewsAllTime": 4649,
       "url": "/headset/piconeo3",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.523Z",
+      "analyticsLastRetrieved": "2025-02-26T09:49:58.161Z",
       "__v": 0,
-      "views30d": 214
+      "views30d": 218
     },
     "id": "TIUMm3G29",
     "specData-ipdRange": "3 fixed IPD settings: 58mm, 63.5mm, 69mm",
@@ -2230,11 +2230,11 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "siz3k08CP7S",
-      "views24h": 2,
+      "views24h": 0,
       "views7d": 6,
       "viewsAllTime": 2596,
       "url": "/headset/piconeo3pro",
-      "analyticsLastRetrieved": "2025-02-25T07:08:20.670Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.752Z",
       "__v": 0,
       "views30d": 68
     },
@@ -2337,10 +2337,10 @@
     "page": {
       "_id": "gWX4TdI7luO",
       "views24h": 1,
-      "views7d": 12,
-      "viewsAllTime": 2213,
+      "views7d": 13,
+      "viewsAllTime": 2214,
       "url": "/headset/piconeo3proeye",
-      "analyticsLastRetrieved": "2025-02-25T13:23:09.820Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.474Z",
       "__v": 0,
       "views30d": 106
     },
@@ -2410,12 +2410,12 @@
     "page": {
       "_id": "Y11adp87fb5",
       "views24h": 1,
-      "views7d": 3,
-      "viewsAllTime": 1183,
+      "views7d": 4,
+      "viewsAllTime": 1184,
       "url": "/headset/picog24kenterprise",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.523Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.752Z",
       "__v": 0,
-      "views30d": 40
+      "views30d": 41
     },
     "id": "_iCFaC_Y0"
   },
@@ -2497,13 +2497,13 @@
     "manufacturer": "Pico",
     "page": {
       "_id": "s881aAwuU",
-      "views24h": 2,
-      "views7d": 18,
-      "viewsAllTime": 3186,
+      "views24h": 4,
+      "views7d": 14,
+      "viewsAllTime": 3191,
       "url": "/headset/piconeo3link",
-      "analyticsLastRetrieved": "2025-02-25T01:52:29.222Z",
+      "analyticsLastRetrieved": "2025-02-26T04:06:25.365Z",
       "__v": 0,
-      "views30d": 126
+      "views30d": 129
     },
     "id": "ZhHpFl6JF"
   },
@@ -2597,12 +2597,12 @@
     "page": {
       "_id": "b0b8YvG0OJ",
       "url": "/headset/pico4",
-      "views24h": 41,
-      "views7d": 240,
-      "viewsAllTime": 38876,
-      "analyticsLastRetrieved": "2025-02-25T09:24:37.591Z",
+      "views24h": 26,
+      "views7d": 223,
+      "viewsAllTime": 38903,
+      "analyticsLastRetrieved": "2025-02-26T10:15:34.332Z",
       "__v": 0,
-      "views30d": 1065
+      "views30d": 1064
     },
     "id": "1qnvNfJKq",
     "specData-price": "€430. 256 GB model: €500",
@@ -2698,12 +2698,12 @@
     "page": {
       "_id": "MTfj7DQkgN",
       "url": "/headset/pico4pro",
-      "views24h": 8,
-      "views7d": 75,
-      "viewsAllTime": 15547,
-      "analyticsLastRetrieved": "2025-02-25T02:45:27.312Z",
+      "views24h": 2,
+      "views7d": 59,
+      "viewsAllTime": 15560,
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 396
+      "views30d": 386
     },
     "id": "PvfCDzaDK",
     "specData-price": "Chinese market only",
@@ -2805,12 +2805,12 @@
     "page": {
       "_id": "e3-LvVnfiL",
       "url": "/headset/pico4enterprise",
-      "views24h": 7,
-      "views7d": 34,
-      "viewsAllTime": 7760,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.528Z",
+      "views24h": 5,
+      "views7d": 37,
+      "viewsAllTime": 7765,
+      "analyticsLastRetrieved": "2025-02-26T05:57:05.903Z",
       "__v": 0,
-      "views30d": 254
+      "views30d": 256
     },
     "id": "QCggQgEXT",
     "specData-price": "Only available to registered businesses",
@@ -2891,9 +2891,9 @@
       "_id": "_nqQTBrCG8",
       "url": "/headset/picog3",
       "views24h": 5,
-      "views7d": 43,
-      "viewsAllTime": 6589,
-      "analyticsLastRetrieved": "2025-02-25T07:08:20.670Z",
+      "views7d": 44,
+      "viewsAllTime": 6596,
+      "analyticsLastRetrieved": "2025-02-26T08:53:21.154Z",
       "__v": 0,
       "views30d": 174
     },
@@ -3003,11 +3003,11 @@
     "page": {
       "_id": "tfEtYll7T",
       "url": "/headset/pico4ultra",
-      "views24h": 49,
-      "views7d": 372,
-      "views30d": 1546,
-      "viewsAllTime": 16073,
-      "analyticsLastRetrieved": "2025-02-25T02:47:32.624Z",
+      "views24h": 34,
+      "views7d": 333,
+      "views30d": 1514,
+      "viewsAllTime": 16162,
+      "analyticsLastRetrieved": "2025-02-26T03:42:42.342Z",
       "__v": 0
     },
     "id": "W8bStYZ3H",
@@ -3108,11 +3108,11 @@
     "page": {
       "_id": "C-FJRakbR",
       "url": "/headset/pico4ultraenterprise",
-      "views24h": 6,
-      "views7d": 111,
-      "views30d": 647,
-      "viewsAllTime": 5010,
-      "analyticsLastRetrieved": "2025-02-25T05:58:58.203Z",
+      "views24h": 18,
+      "views7d": 113,
+      "views30d": 650,
+      "viewsAllTime": 5032,
+      "analyticsLastRetrieved": "2025-02-26T07:25:12.064Z",
       "__v": 0
     },
     "id": "6BsDYE4I4",
@@ -3200,13 +3200,13 @@
     "manufacturer": "3Glasses",
     "page": {
       "_id": "IWIkobxNOqm",
-      "views24h": 1,
-      "views7d": 10,
-      "viewsAllTime": 1034,
+      "views24h": 4,
+      "views7d": 12,
+      "viewsAllTime": 1038,
       "url": "/headset/3glassesx1",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.613Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.475Z",
       "__v": 0,
-      "views30d": 28
+      "views30d": 31
     },
     "id": "scBhMmwQy",
     "specData-weight": "Headset only. Computing unit: 400g"
@@ -3297,13 +3297,13 @@
     "manufacturer": "3Glasses",
     "page": {
       "_id": "OdfDFS6xKyi",
-      "views24h": 3,
-      "views7d": 10,
-      "viewsAllTime": 674,
+      "views24h": 9,
+      "views7d": 21,
+      "viewsAllTime": 685,
       "url": "/headset/3glassesbluburs2",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.528Z",
+      "analyticsLastRetrieved": "2025-02-26T04:39:48.619Z",
       "__v": 0,
-      "views30d": 32
+      "views30d": 37
     },
     "id": "MFKzu5lwb"
   },
@@ -3389,13 +3389,13 @@
     "manufacturer": "3Glasses",
     "page": {
       "_id": "0GJmqJPzQcr",
-      "views24h": 0,
-      "views7d": 8,
-      "viewsAllTime": 616,
+      "views24h": 1,
+      "views7d": 9,
+      "viewsAllTime": 617,
       "url": "/headset/3glassesbluburs1",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.613Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.455Z",
       "__v": 0,
-      "views30d": 32
+      "views30d": 33
     },
     "id": "CgySYMXLq"
   },
@@ -3483,13 +3483,13 @@
     "manufacturer": "3Glasses",
     "page": {
       "_id": "NaRhc0onbot",
-      "views24h": 0,
-      "views7d": 4,
-      "viewsAllTime": 705,
+      "views24h": 1,
+      "views7d": 3,
+      "viewsAllTime": 706,
       "url": "/headset/3glassesd2",
-      "analyticsLastRetrieved": "2025-02-25T09:05:52.285Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.753Z",
       "__v": 0,
-      "views30d": 42
+      "views30d": 43
     },
     "id": "FUmJdcmqg"
   },
@@ -3586,13 +3586,13 @@
     "manufacturer": "Samsung",
     "page": {
       "_id": "ryNHf9BBr8y",
-      "views24h": 5,
-      "views7d": 17,
-      "viewsAllTime": 3732,
+      "views24h": 4,
+      "views7d": 24,
+      "viewsAllTime": 3739,
       "url": "/headset/samsungodyssey",
-      "analyticsLastRetrieved": "2025-02-25T10:57:59.945Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.753Z",
       "__v": 0,
-      "views30d": 137
+      "views30d": 143
     },
     "id": "nJ1nfaxkWVN"
   },
@@ -3695,13 +3695,13 @@
     "manufacturer": "Samsung",
     "page": {
       "_id": "fQeeZZKgHNl",
-      "views24h": 9,
-      "views7d": 120,
-      "viewsAllTime": 5894,
+      "views24h": 13,
+      "views7d": 108,
+      "viewsAllTime": 5905,
       "url": "/headset/samsungodyssey+",
-      "analyticsLastRetrieved": "2025-02-25T13:17:34.445Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.476Z",
       "__v": 0,
-      "views30d": 419
+      "views30d": 414
     },
     "id": "UNVy3CijO2C"
   },
@@ -3798,11 +3798,11 @@
     "manufacturer": "Asus",
     "page": {
       "_id": "76YFWrtQxwa",
-      "views24h": 2,
-      "views7d": 19,
-      "viewsAllTime": 1187,
+      "views24h": 3,
+      "views7d": 18,
+      "viewsAllTime": 1190,
       "url": "/headset/asushc102",
-      "analyticsLastRetrieved": "2025-02-25T07:48:41.748Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.760Z",
       "__v": 0,
       "views30d": 86
     },
@@ -3862,11 +3862,11 @@
     "page": {
       "_id": "QFfrvdf-nA",
       "url": "/headset/asusairvisionm1",
-      "views24h": 32,
-      "views7d": 226,
-      "views30d": 1101,
-      "viewsAllTime": 1521,
-      "analyticsLastRetrieved": "2025-02-25T04:24:19.085Z",
+      "views24h": 54,
+      "views7d": 232,
+      "views30d": 1122,
+      "viewsAllTime": 1577,
+      "analyticsLastRetrieved": "2025-02-26T05:26:10.295Z",
       "__v": 0
     },
     "id": "yBcFHrYN0"
@@ -3963,12 +3963,12 @@
     "page": {
       "_id": "oKROxA-UX8z",
       "views24h": 2,
-      "views7d": 10,
-      "viewsAllTime": 1058,
+      "views7d": 11,
+      "viewsAllTime": 1060,
       "url": "/headset/xrspacemanova",
-      "analyticsLastRetrieved": "2025-02-25T09:44:58.012Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.760Z",
       "__v": 0,
-      "views30d": 51
+      "views30d": 53
     },
     "id": "AbMzoY6Em"
   },
@@ -4065,13 +4065,13 @@
     "manufacturer": "Acer",
     "page": {
       "_id": "No_w1UAQGA7",
-      "views24h": 10,
-      "views7d": 18,
-      "viewsAllTime": 1367,
+      "views24h": 4,
+      "views7d": 22,
+      "viewsAllTime": 1371,
       "url": "/headset/acerojo500",
-      "analyticsLastRetrieved": "2025-02-25T07:12:44.459Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 67
+      "views30d": 70
     },
     "id": "2sK-itL7k"
   },
@@ -4175,13 +4175,13 @@
     "manufacturer": "Acer",
     "page": {
       "_id": "bBF8DOEpO__",
-      "views24h": 3,
-      "views7d": 34,
-      "viewsAllTime": 1932,
+      "views24h": 2,
+      "views7d": 31,
+      "viewsAllTime": 1934,
       "url": "/headset/acerah101",
-      "analyticsLastRetrieved": "2025-02-25T09:10:43.026Z",
+      "analyticsLastRetrieved": "2025-02-26T12:02:41.691Z",
       "__v": 0,
-      "views30d": 125
+      "views30d": 114
     },
     "id": "7xD_K8K0bW0"
   },
@@ -4291,13 +4291,13 @@
     "manufacturer": "Pimax",
     "page": {
       "_id": "-JsDlAxV6qO",
-      "views24h": 9,
-      "views7d": 41,
-      "viewsAllTime": 5135,
+      "views24h": 1,
+      "views7d": 43,
+      "viewsAllTime": 5142,
       "url": "/headset/pimaxartisan",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.529Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 229
+      "views30d": 224
     },
     "id": "Aq3GiBUSNKl",
     "specData-fov": "Advertised as 140° (H), 115° (V), 170° (D)"
@@ -4422,12 +4422,12 @@
     "page": {
       "_id": "LbPYHIx7CvA",
       "views24h": 4,
-      "views7d": 27,
-      "viewsAllTime": 5772,
+      "views7d": 29,
+      "viewsAllTime": 5777,
       "url": "/headset/pimax5ksuper",
-      "analyticsLastRetrieved": "2025-02-25T07:48:57.594Z",
+      "analyticsLastRetrieved": "2025-02-26T09:42:20.238Z",
       "__v": 0,
-      "views30d": 231
+      "views30d": 226
     },
     "id": "B418gvCNB",
     "specData-fov": "Advertised as 170° (H), 115° (V), 200° (D)"
@@ -4552,13 +4552,13 @@
     "manufacturer": "Pimax",
     "page": {
       "_id": "KtMG1f-rg6m",
-      "views24h": 13,
-      "views7d": 87,
-      "viewsAllTime": 8082,
+      "views24h": 21,
+      "views7d": 92,
+      "viewsAllTime": 8104,
       "url": "/headset/pimaxvision8kx",
-      "analyticsLastRetrieved": "2025-02-25T12:35:17.072Z",
+      "analyticsLastRetrieved": "2025-02-26T13:59:50.722Z",
       "__v": 0,
-      "views30d": 414
+      "views30d": 424
     },
     "id": "H0JXNCr3u4",
     "specData-refreshRate": "115 Hz with upscaling",
@@ -4657,12 +4657,12 @@
     "page": {
       "_id": "cKh-kY28qOF",
       "views24h": 4,
-      "views7d": 49,
-      "viewsAllTime": 3120,
+      "views7d": 39,
+      "viewsAllTime": 3124,
       "url": "/headset/pimax4k",
-      "analyticsLastRetrieved": "2025-02-25T08:55:37.815Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.455Z",
       "__v": 0,
-      "views30d": 179
+      "views30d": 175
     },
     "id": "MpdO28ZeBXK"
   },
@@ -4784,13 +4784,13 @@
     "manufacturer": "Pimax",
     "page": {
       "_id": "-cxYYuN9TiK",
-      "views24h": 4,
-      "views7d": 51,
-      "viewsAllTime": 3793,
+      "views24h": 2,
+      "views7d": 32,
+      "viewsAllTime": 3795,
       "url": "/headset/pimaxvision8k+",
-      "analyticsLastRetrieved": "2025-02-25T07:08:18.476Z",
+      "analyticsLastRetrieved": "2025-02-26T11:18:57.748Z",
       "__v": 0,
-      "views30d": 235
+      "views30d": 224
     },
     "id": "NdlRTp_ZP7",
     "specData-resolution": "Upscaled",
@@ -4914,12 +4914,12 @@
     "page": {
       "_id": "dmkYyJ3r__m",
       "views24h": 7,
-      "views7d": 66,
-      "viewsAllTime": 4658,
+      "views7d": 55,
+      "viewsAllTime": 4665,
       "url": "/headset/pimax5kplus",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.529Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 329
+      "views30d": 323
     },
     "id": "sBm-XaFwu4T",
     "specData-fov": "Advertised as 170° (H), 115° (V), 200° (D)"
@@ -5027,13 +5027,13 @@
     "manufacturer": "Pimax",
     "page": {
       "_id": "5cJb9xWotuB",
-      "views24h": 7,
-      "views7d": 22,
+      "views24h": 0,
+      "views7d": 18,
       "viewsAllTime": 2678,
       "url": "/headset/pimax5kxr",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.529Z",
+      "analyticsLastRetrieved": "2025-02-26T05:39:07.258Z",
       "__v": 0,
-      "views30d": 96
+      "views30d": 87
     },
     "id": "Q0NEUaFwQ",
     "specData-fov": "Advertised as 170° (H), 115° (V), 200° (D)"
@@ -5105,13 +5105,13 @@
     "manufacturer": "Pimax",
     "page": {
       "_id": "EvC8EU9B0gJ",
-      "views24h": 41,
-      "views7d": 328,
-      "viewsAllTime": 23466,
+      "views24h": 44,
+      "views7d": 312,
+      "viewsAllTime": 23508,
       "url": "/headset/pimaxreality12kqled",
-      "analyticsLastRetrieved": "2025-02-25T11:01:05.467Z",
+      "analyticsLastRetrieved": "2025-02-26T11:53:52.695Z",
       "__v": 0,
-      "views30d": 1510
+      "views30d": 1490
     },
     "id": "03kVzbMmK",
     "specData-resolution": "PC-VR mode: 6K per eye. Standalone mode: 4K per eye",
@@ -5211,12 +5211,12 @@
     "page": {
       "_id": "AwPFbLL42",
       "url": "/headset/pimaxcrystalqled",
-      "views24h": 14,
-      "views7d": 76,
-      "viewsAllTime": 22316,
-      "analyticsLastRetrieved": "2025-02-25T05:02:51.073Z",
+      "views24h": 9,
+      "views7d": 81,
+      "viewsAllTime": 22328,
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 369
+      "views30d": 364
     },
     "id": "INGl_L_43",
     "specData-deviceType": "Also supports standalone functionality",
@@ -5317,11 +5317,11 @@
       "_id": "nTkkdlub9",
       "url": "/headset/pimaxportalview",
       "views24h": 3,
-      "views7d": 35,
-      "viewsAllTime": 3944,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.524Z",
+      "views7d": 34,
+      "viewsAllTime": 3947,
+      "analyticsLastRetrieved": "2025-02-26T10:32:36.572Z",
       "__v": 0,
-      "views30d": 184
+      "views30d": 176
     },
     "id": "lSx6f5If_",
     "specData-ipdRange": "3 fixed IPD settings3 fixed IPD settings: 58mm, 63mm, 68mm",
@@ -5413,12 +5413,12 @@
     "page": {
       "_id": "rj3PjQ8V7",
       "url": "/headset/pimaxportalqledview",
-      "views24h": 8,
-      "views7d": 34,
-      "viewsAllTime": 4559,
-      "analyticsLastRetrieved": "2025-02-25T07:15:53.389Z",
+      "views24h": 6,
+      "views7d": 36,
+      "viewsAllTime": 4565,
+      "analyticsLastRetrieved": "2025-02-26T10:33:06.572Z",
       "__v": 0,
-      "views30d": 179
+      "views30d": 168
     },
     "id": "fDrMoYL41",
     "specData-ipdRange": "3 fixed IPD settings: 58mm, 63mm, 68mm",
@@ -5504,11 +5504,11 @@
     "page": {
       "_id": "m3H5-c3wlK",
       "url": "/headset/pimaxcrystallight",
-      "views24h": 45,
-      "views7d": 257,
-      "views30d": 1364,
-      "viewsAllTime": 21225,
-      "analyticsLastRetrieved": "2025-02-25T02:31:35.310Z",
+      "views24h": 18,
+      "views7d": 215,
+      "views30d": 1298,
+      "viewsAllTime": 21269,
+      "analyticsLastRetrieved": "2025-02-26T04:10:47.544Z",
       "__v": 0
     },
     "id": "6nd6PhR_A",
@@ -5599,11 +5599,11 @@
     "page": {
       "_id": "s9E8RLthb",
       "url": "/headset/pimaxcrystalsuper",
-      "views24h": 103,
-      "views7d": 705,
-      "views30d": 3150,
-      "viewsAllTime": 30407,
-      "analyticsLastRetrieved": "2025-02-25T12:38:43.708Z",
+      "views24h": 91,
+      "views7d": 677,
+      "views30d": 3105,
+      "viewsAllTime": 30495,
+      "analyticsLastRetrieved": "2025-02-26T13:43:10.748Z",
       "__v": 0
     },
     "id": "F206d3eAD",
@@ -5688,11 +5688,11 @@
     "page": {
       "_id": "V3n6hjvphU",
       "url": "/headset/pimaxdreamair",
-      "views24h": 20,
-      "views7d": 187,
-      "views30d": 1041,
-      "viewsAllTime": 1758,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.525Z",
+      "views24h": 24,
+      "views7d": 169,
+      "views30d": 1038,
+      "viewsAllTime": 1784,
+      "analyticsLastRetrieved": "2025-02-26T10:01:44.960Z",
       "__v": 0
     },
     "id": "Q8CjlqTAs",
@@ -5791,13 +5791,13 @@
     "manufacturer": "StarVR",
     "page": {
       "_id": "xY-eyZ07kYF",
-      "views24h": 6,
-      "views7d": 70,
-      "viewsAllTime": 3875,
+      "views24h": 11,
+      "views7d": 77,
+      "viewsAllTime": 3890,
       "url": "/headset/starvrone",
-      "analyticsLastRetrieved": "2025-02-25T05:44:01.590Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 354
+      "views30d": 365
     },
     "id": "4RBwgYhBv-5",
     "specData-fov": "Advertised as 210° (H), 130° (V)"
@@ -5884,13 +5884,13 @@
     "manufacturer": "Huawei",
     "page": {
       "_id": "FXYa5jxevl8",
-      "views24h": 24,
-      "views7d": 81,
-      "viewsAllTime": 3012,
+      "views24h": 12,
+      "views7d": 73,
+      "viewsAllTime": 3018,
       "url": "/headset/huaweivrglass",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.614Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.476Z",
       "__v": 0,
-      "views30d": 232
+      "views30d": 229
     },
     "id": "x3IQCew4E",
     "specData-deviceType": "Can also be powered by a PC.",
@@ -5953,13 +5953,13 @@
     "manufacturer": "Huawei",
     "page": {
       "_id": "Hl1n8O9WF_u",
-      "views24h": 11,
-      "views7d": 31,
-      "viewsAllTime": 2134,
+      "views24h": 9,
+      "views7d": 37,
+      "viewsAllTime": 2143,
       "url": "/headset/huaweivrglass6dof",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.614Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.456Z",
       "__v": 0,
-      "views30d": 169
+      "views30d": 175
     },
     "id": "eTNerb4Vg",
     "specData-deviceType": "Can also be powered by a PC.",
@@ -6023,12 +6023,12 @@
     "page": {
       "_id": "lq3l4dTSj",
       "url": "/headset/huaweivisionglass",
-      "views24h": 6,
-      "views7d": 21,
-      "viewsAllTime": 3722,
-      "analyticsLastRetrieved": "2025-02-25T06:04:23.025Z",
+      "views24h": 13,
+      "views7d": 29,
+      "viewsAllTime": 3736,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 97
+      "views30d": 105
     },
     "id": "JWXF3ikOV",
     "specData-price": "¥2,999"
@@ -6115,13 +6115,13 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "tH3vtoLJ2Tr",
-      "views24h": 0,
-      "views7d": 0,
-      "viewsAllTime": 591,
+      "views24h": 1,
+      "views7d": 1,
+      "viewsAllTime": 592,
       "url": "/headset/dpvrm2pro",
-      "analyticsLastRetrieved": "2025-02-25T11:21:41.659Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.476Z",
       "__v": 0,
-      "views30d": 9
+      "views30d": 10
     },
     "id": "1PGXcC69eT"
   },
@@ -6213,10 +6213,10 @@
     "page": {
       "_id": "BlYOg7_ANSf",
       "views24h": 0,
-      "views7d": 2,
+      "views7d": 1,
       "viewsAllTime": 579,
       "url": "/headset/dpvre3b",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.614Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.476Z",
       "__v": 0,
       "views30d": 24
     },
@@ -6319,13 +6319,13 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "vCu8tcEBGv9",
-      "views24h": 0,
-      "views7d": 6,
-      "viewsAllTime": 618,
+      "views24h": 2,
+      "views7d": 8,
+      "viewsAllTime": 620,
       "url": "/headset/dpvrp1pro",
-      "analyticsLastRetrieved": "2025-02-25T12:53:35.541Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.476Z",
       "__v": 0,
-      "views30d": 29
+      "views30d": 31
     },
     "id": "A65oCegUG6"
   },
@@ -6427,13 +6427,13 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "l7neQWOlHF3",
-      "views24h": 2,
-      "views7d": 11,
-      "viewsAllTime": 1332,
+      "views24h": 5,
+      "views7d": 14,
+      "viewsAllTime": 1335,
       "url": "/headset/dpvre3c",
-      "analyticsLastRetrieved": "2025-02-25T13:25:55.106Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.476Z",
       "__v": 0,
-      "views30d": 54
+      "views30d": 57
     },
     "id": "b3bjtaz0gPU"
   },
@@ -6528,13 +6528,13 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "VD_QLFmFHfu",
-      "views24h": 0,
-      "views7d": 3,
-      "viewsAllTime": 1135,
+      "views24h": 2,
+      "views7d": 4,
+      "viewsAllTime": 1137,
       "url": "/headset/dpvre34k",
-      "analyticsLastRetrieved": "2025-02-25T10:23:58.556Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 40
+      "views30d": 42
     },
     "id": "LEfJ5dtlKD"
   },
@@ -6639,7 +6639,7 @@
       "views7d": 2,
       "viewsAllTime": 1114,
       "url": "/headset/dpvrp1pro4k",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.525Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
       "views30d": 16
     },
@@ -6742,13 +6742,13 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "TfTPLd-jBJI",
-      "views24h": 0,
-      "views7d": 8,
-      "viewsAllTime": 920,
+      "views24h": 3,
+      "views7d": 11,
+      "viewsAllTime": 923,
       "url": "/headset/dpvrp1",
-      "analyticsLastRetrieved": "2025-02-25T08:27:17.130Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 52
+      "views30d": 54
     },
     "id": "xVsfzIT88F"
   },
@@ -6817,11 +6817,11 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "9Q84wMSoJk_",
-      "views24h": 1,
-      "views7d": 4,
+      "views24h": 0,
+      "views7d": 3,
       "viewsAllTime": 600,
       "url": "/headset/dpvrp1prolight",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.614Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
       "views30d": 17
     },
@@ -6906,13 +6906,13 @@
     "manufacturer": "DPVR",
     "page": {
       "_id": "a5T1381-LkJ",
-      "views24h": 0,
+      "views24h": 1,
       "views7d": 3,
-      "viewsAllTime": 1110,
+      "viewsAllTime": 1111,
       "url": "/headset/dpvrp1ultra4k",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.614Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 29
+      "views30d": 28
     },
     "id": "KRdyzLu_U",
     "specData-eyeTracking": "Eye tracking module available for enterprise customers",
@@ -7004,12 +7004,12 @@
     "page": {
       "_id": "yWNjrEJoA",
       "url": "/headset/dpvre4",
-      "views24h": 5,
-      "views7d": 57,
-      "viewsAllTime": 7851,
-      "analyticsLastRetrieved": "2025-02-25T05:20:52.002Z",
+      "views24h": 3,
+      "views7d": 49,
+      "viewsAllTime": 7855,
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 231
+      "views30d": 234
     },
     "id": "vjdQDYutb",
     "specData-headstrap": "With flip-up visor",
@@ -7086,11 +7086,11 @@
     "page": {
       "_id": "_F8t--v1y",
       "url": "/headset/dpvrp2",
-      "views24h": 8,
-      "views7d": 57,
-      "views30d": 236,
-      "viewsAllTime": 3518,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.525Z",
+      "views24h": 9,
+      "views7d": 54,
+      "views30d": 235,
+      "viewsAllTime": 3527,
+      "analyticsLastRetrieved": "2025-02-26T11:23:19.400Z",
       "__v": 0
     },
     "id": "9yvTBzXSU",
@@ -7158,11 +7158,11 @@
     "page": {
       "_id": "f-WVq243h",
       "url": "/headset/dpvre4c",
-      "views24h": 5,
-      "views7d": 28,
-      "views30d": 189,
-      "viewsAllTime": 3374,
-      "analyticsLastRetrieved": "2025-02-25T07:08:20.670Z",
+      "views24h": 2,
+      "views7d": 20,
+      "views30d": 184,
+      "viewsAllTime": 3376,
+      "analyticsLastRetrieved": "2025-02-26T11:50:15.019Z",
       "__v": 0
     },
     "id": "p5M1jqsez",
@@ -7303,13 +7303,13 @@
     "manufacturer": "Sony",
     "page": {
       "_id": "L3XeeiSgGfV",
-      "views24h": 25,
-      "views7d": 105,
-      "viewsAllTime": 7050,
+      "views24h": 7,
+      "views7d": 95,
+      "viewsAllTime": 7080,
       "url": "/headset/playstationvr",
-      "analyticsLastRetrieved": "2025-02-25T03:11:04.764Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.507Z",
       "__v": 0,
-      "views30d": 412
+      "views30d": 409
     },
     "id": "0JxCGzLq8N",
     "specData-audioJack": "Attached to cable"
@@ -7420,13 +7420,13 @@
     "manufacturer": "Sony",
     "page": {
       "_id": "5nOzxwHMwo-",
-      "views24h": 22,
-      "views7d": 196,
-      "viewsAllTime": 18198,
+      "views24h": 28,
+      "views7d": 197,
+      "viewsAllTime": 18232,
       "url": "/headset/playstationvr2",
-      "analyticsLastRetrieved": "2025-02-25T05:34:05.834Z",
+      "analyticsLastRetrieved": "2025-02-26T05:45:11.645Z",
       "__v": 0,
-      "views30d": 913
+      "views30d": 907
     },
     "id": "XrzADUlF1",
     "specData-ipdRange": "Assisted via eye tracking",
@@ -7484,13 +7484,13 @@
     "manufacturer": "Sony",
     "page": {
       "_id": "0SbdpaUk97M",
-      "views24h": 5,
-      "views7d": 44,
-      "viewsAllTime": 3780,
+      "views24h": 2,
+      "views7d": 42,
+      "viewsAllTime": 3784,
       "url": "/headset/sonypud-j5a",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.526Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 162
+      "views30d": 157
     },
     "id": "E6u_uZIEu"
   },
@@ -7552,11 +7552,11 @@
     "page": {
       "_id": "BjN6OdQcfr",
       "url": "/headset/sonysrh-s1",
-      "views24h": 34,
-      "views7d": 187,
-      "views30d": 1028,
-      "viewsAllTime": 7260,
-      "analyticsLastRetrieved": "2025-02-25T04:08:35.002Z",
+      "views24h": 29,
+      "views7d": 197,
+      "views30d": 1002,
+      "viewsAllTime": 7291,
+      "analyticsLastRetrieved": "2025-02-26T04:23:12.975Z",
       "__v": 0
     },
     "id": "Hr0hk2zPq",
@@ -7648,13 +7648,13 @@
     "manufacturer": "Thundercomm",
     "page": {
       "_id": "2s14P62SYnQ",
-      "views24h": 0,
+      "views24h": 1,
       "views7d": 3,
-      "viewsAllTime": 566,
+      "viewsAllTime": 567,
       "url": "/headset/snapdragon835vrdevelopmentkit",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.527Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 22
+      "views30d": 20
     },
     "id": "HDZ62eovT"
   },
@@ -7740,9 +7740,9 @@
       "_id": "EyqWx15L6_W",
       "views24h": 1,
       "views7d": 4,
-      "viewsAllTime": 503,
+      "viewsAllTime": 504,
       "url": "/headset/snapdragon845vrdevelopmentkit",
-      "analyticsLastRetrieved": "2025-02-25T12:41:15.616Z",
+      "analyticsLastRetrieved": "2025-02-26T14:19:08.079Z",
       "__v": 0,
       "views30d": 22
     },
@@ -7825,13 +7825,13 @@
     "manufacturer": "Thundercomm",
     "page": {
       "_id": "wnY7vPi_qQ9",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 2,
       "viewsAllTime": 397,
       "url": "/headset/snapdragonxr1hmdreferencedesign",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.527Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 12
+      "views30d": 11
     },
     "id": "RmtFP5Lkt"
   },
@@ -7919,12 +7919,12 @@
     "page": {
       "_id": "qIbKRSkjGlZ",
       "views24h": 1,
-      "views7d": 14,
-      "viewsAllTime": 3107,
+      "views7d": 13,
+      "viewsAllTime": 3108,
       "url": "/headset/snapdragonxr2hmdreferencedesign",
-      "analyticsLastRetrieved": "2025-02-25T04:24:43.742Z",
+      "analyticsLastRetrieved": "2025-02-26T05:58:02.054Z",
       "__v": 0,
-      "views30d": 100
+      "views30d": 96
     },
     "id": "gvDbU-H7R"
   },
@@ -8060,13 +8060,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "rnK4358H_VU",
-      "views24h": 88,
-      "views7d": 447,
-      "viewsAllTime": 26322,
+      "views24h": 44,
+      "views7d": 410,
+      "viewsAllTime": 26426,
       "url": "/headset/htcvive",
-      "analyticsLastRetrieved": "2025-02-25T02:43:26.036Z",
+      "analyticsLastRetrieved": "2025-02-26T03:08:51.673Z",
       "__v": 0,
-      "views30d": 1730
+      "views30d": 1744
     },
     "id": "0dLRrbMbHgL",
     "specData-weight": "*2017 model. 2016 model: 555 g",
@@ -8171,11 +8171,11 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "4EzuqGaGbk_",
-      "views24h": 1,
-      "views7d": 24,
-      "viewsAllTime": 2446,
+      "views24h": 6,
+      "views7d": 28,
+      "viewsAllTime": 2452,
       "url": "/headset/htcvivefocusplus",
-      "analyticsLastRetrieved": "2025-02-25T06:37:13.225Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.456Z",
       "__v": 0,
       "views30d": 142
     },
@@ -8293,13 +8293,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "CJnhWd7F2vW",
-      "views24h": 8,
-      "views7d": 58,
-      "viewsAllTime": 5700,
+      "views24h": 12,
+      "views7d": 55,
+      "viewsAllTime": 5709,
       "url": "/headset/htcvivecosmoselite",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.528Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 336
+      "views30d": 333
     },
     "id": "BbKJzX_vQ2",
     "specData-trackingFrequency": "Rotational tracking frequency. Positional frequency: 100 Hz"
@@ -8432,13 +8432,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "Y5X4fV6Kpkl",
-      "views24h": 10,
-      "views7d": 79,
-      "viewsAllTime": 5804,
+      "views24h": 9,
+      "views7d": 74,
+      "viewsAllTime": 5813,
       "url": "/headset/htcviveproeye",
-      "analyticsLastRetrieved": "2025-02-25T07:28:31.299Z",
+      "analyticsLastRetrieved": "2025-02-26T11:44:17.867Z",
       "__v": 0,
-      "views30d": 293
+      "views30d": 284
     },
     "id": "gc__iL-JZfK"
   },
@@ -8533,13 +8533,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "NdbeMOUdfy4",
-      "views24h": 2,
-      "views7d": 26,
-      "viewsAllTime": 2128,
+      "views24h": 3,
+      "views7d": 25,
+      "viewsAllTime": 2129,
       "url": "/headset/htcvivefocus",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.615Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 119
+      "views30d": 113
     },
     "id": "iwGVoCwsA4N"
   },
@@ -8674,13 +8674,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "5Y84_dRFtgB",
-      "views24h": 6,
-      "views7d": 49,
-      "viewsAllTime": 4658,
+      "views24h": 3,
+      "views7d": 41,
+      "viewsAllTime": 4660,
       "url": "/headset/htcvivecosmos",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.530Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.508Z",
       "__v": 0,
-      "views30d": 252
+      "views30d": 242
     },
     "id": "Nz7lKAcZEk"
   },
@@ -8807,13 +8807,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "khxr9wiQljQ",
-      "views24h": 8,
-      "views7d": 96,
-      "viewsAllTime": 8233,
+      "views24h": 13,
+      "views7d": 79,
+      "viewsAllTime": 8250,
       "url": "/headset/htcvivepro",
-      "analyticsLastRetrieved": "2025-02-25T13:07:27.040Z",
+      "analyticsLastRetrieved": "2025-02-26T14:18:04.507Z",
       "__v": 0,
-      "views30d": 502
+      "views30d": 501
     },
     "id": "PzyrrM6SuMh"
   },
@@ -8945,13 +8945,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "x9X-c0GVFBL",
-      "views24h": 22,
-      "views7d": 208,
-      "viewsAllTime": 17934,
+      "views24h": 30,
+      "views7d": 189,
+      "viewsAllTime": 17957,
       "url": "/headset/htcvivepro2",
-      "analyticsLastRetrieved": "2025-02-25T09:04:39.562Z",
+      "analyticsLastRetrieved": "2025-02-26T10:04:04.832Z",
       "__v": 0,
-      "views30d": 817
+      "views30d": 810
     },
     "id": "mLbW9G7f4",
     "specData-ipdRange": "Older model: 57-72 mm",
@@ -9068,13 +9068,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "MZdsnpEjyUA",
-      "views24h": 8,
-      "views7d": 81,
-      "viewsAllTime": 10405,
+      "views24h": 18,
+      "views7d": 80,
+      "viewsAllTime": 10421,
       "url": "/headset/htcvivefocus3",
-      "analyticsLastRetrieved": "2025-02-25T07:21:30.081Z",
+      "analyticsLastRetrieved": "2025-02-26T11:43:18.972Z",
       "__v": 0,
-      "views30d": 410
+      "views30d": 412
     },
     "id": "vEajWefj-",
     "specData-wirelessVideo": "Vive Business Streaming",
@@ -9149,13 +9149,13 @@
     "manufacturer": "HTC",
     "page": {
       "_id": "F5ZcEQ_iuOH",
-      "views24h": 16,
-      "views7d": 76,
-      "viewsAllTime": 5100,
+      "views24h": 3,
+      "views7d": 72,
+      "viewsAllTime": 5104,
       "url": "/headset/htcviveflow",
-      "analyticsLastRetrieved": "2025-02-25T11:20:10.568Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.761Z",
       "__v": 0,
-      "views30d": 308
+      "views30d": 299
     },
     "id": "IxnGvJGvE",
     "specData-weight": "239 g including cable",
@@ -9268,12 +9268,12 @@
     "page": {
       "_id": "bjTNUyScu",
       "url": "/headset/htcvivexrelite",
-      "views24h": 18,
-      "views7d": 133,
-      "viewsAllTime": 16435,
-      "analyticsLastRetrieved": "2025-02-25T10:29:53.177Z",
+      "views24h": 15,
+      "views7d": 130,
+      "viewsAllTime": 16447,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
-      "views30d": 575
+      "views30d": 576
     },
     "id": "nlolwv0lx",
     "specData-weight": "*With \"Battery Cradle\" headstrap. With glasses-style arms: 273 g",
@@ -9373,11 +9373,11 @@
     "page": {
       "_id": "1r5U7h97cb",
       "url": "/headset/htcvivefocusvision",
-      "views24h": 54,
-      "views7d": 347,
-      "views30d": 1824,
-      "viewsAllTime": 12157,
-      "analyticsLastRetrieved": "2025-02-25T11:17:53.212Z",
+      "views24h": 44,
+      "views7d": 319,
+      "views30d": 1810,
+      "viewsAllTime": 12195,
+      "analyticsLastRetrieved": "2025-02-26T12:04:42.376Z",
       "__v": 0
     },
     "id": "ZjK6nVQnN",
@@ -9467,13 +9467,13 @@
     "manufacturer": "LG",
     "page": {
       "_id": "0446ACCP5Dw",
-      "views24h": 2,
+      "views24h": 4,
       "views7d": 5,
-      "viewsAllTime": 777,
+      "viewsAllTime": 779,
       "url": "/headset/lg360vr",
-      "analyticsLastRetrieved": "2025-02-25T10:42:37.387Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 37
+      "views30d": 38
     },
     "id": "49l4SWi66"
   },
@@ -9562,12 +9562,12 @@
     "page": {
       "_id": "SAt3j9FcEK6",
       "views24h": 0,
-      "views7d": 2,
+      "views7d": 1,
       "viewsAllTime": 650,
       "url": "/headset/razerosvrhdk1.4",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.615Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 54
+      "views30d": 53
     },
     "id": "60SJdhS72mw"
   },
@@ -9661,13 +9661,13 @@
     "manufacturer": "Razer",
     "page": {
       "_id": "y3gBCKnP9zt",
-      "views24h": 3,
-      "views7d": 19,
-      "viewsAllTime": 1177,
+      "views24h": 4,
+      "views7d": 18,
+      "viewsAllTime": 1179,
       "url": "/headset/razerosvrhdk2",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.615Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.477Z",
       "__v": 0,
-      "views30d": 66
+      "views30d": 63
     },
     "id": "u5g2gFEQnbe"
   },
@@ -9833,13 +9833,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "NFw5lsGmjP0",
-      "views24h": 136,
-      "views7d": 802,
-      "viewsAllTime": 63654,
+      "views24h": 81,
+      "views7d": 752,
+      "viewsAllTime": 63813,
       "url": "/headset/oculusquest2",
-      "analyticsLastRetrieved": "2025-02-25T02:32:45.883Z",
+      "analyticsLastRetrieved": "2025-02-26T04:47:31.344Z",
       "__v": 0,
-      "views30d": 3089
+      "views30d": 3056
     },
     "id": "pDTZ02PkT",
     "specData-platform": "Facebook account required",
@@ -9995,13 +9995,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "2nGyQc3CucW",
-      "views24h": 44,
-      "views7d": 413,
-      "viewsAllTime": 23104,
+      "views24h": 56,
+      "views7d": 410,
+      "viewsAllTime": 23155,
       "url": "/headset/oculusquest",
-      "analyticsLastRetrieved": "2025-02-25T12:49:43.230Z",
+      "analyticsLastRetrieved": "2025-02-26T14:15:54.789Z",
       "__v": 0,
-      "views30d": 1481
+      "views30d": 1495
     },
     "id": "GeZ01ojF8",
     "specData-platform": "Facebook account required",
@@ -10160,13 +10160,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "ikEn7eeVlub",
-      "views24h": 34,
-      "views7d": 264,
-      "viewsAllTime": 23184,
+      "views24h": 28,
+      "views7d": 237,
+      "viewsAllTime": 23204,
       "url": "/headset/oculusrifts",
-      "analyticsLastRetrieved": "2025-02-25T09:55:43.240Z",
+      "analyticsLastRetrieved": "2025-02-26T10:46:12.762Z",
       "__v": 0,
-      "views30d": 1179
+      "views30d": 1152
     },
     "id": "J1nPrS6OZbf",
     "specData-trackingFrequency": "Tracking cameras: 60 Hz"
@@ -10299,13 +10299,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "9_WK6NyjaU4",
-      "views24h": 14,
-      "views7d": 114,
-      "viewsAllTime": 8150,
+      "views24h": 3,
+      "views7d": 116,
+      "viewsAllTime": 8160,
       "url": "/headset/oculusgo",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.528Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
-      "views30d": 435
+      "views30d": 425
     },
     "id": "mQdDlGT5v-",
     "specData-price": "64 GB: $199",
@@ -10444,13 +10444,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "byhVU_nqU1d",
-      "views24h": 32,
-      "views7d": 312,
-      "viewsAllTime": 26512,
+      "views24h": 17,
+      "views7d": 298,
+      "viewsAllTime": 26541,
       "url": "/headset/oculusrift",
-      "analyticsLastRetrieved": "2025-02-25T09:03:48.698Z",
+      "analyticsLastRetrieved": "2025-02-26T10:15:46.679Z",
       "__v": 0,
-      "views30d": 1366
+      "views30d": 1320
     },
     "id": "-CBHn3rsnf_"
   },
@@ -10542,13 +10542,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "jcJfEUTudEX",
-      "views24h": 31,
-      "views7d": 129,
-      "viewsAllTime": 7065,
+      "views24h": 43,
+      "views7d": 158,
+      "viewsAllTime": 7103,
       "url": "/headset/oculusriftdk2",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.615Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 445
+      "views30d": 465
     },
     "id": "fi93GjQbWAN"
   },
@@ -10642,13 +10642,13 @@
     "manufacturer": "Oculus",
     "page": {
       "_id": "W2Bxc1w1bVS",
-      "views24h": 33,
-      "views7d": 170,
-      "viewsAllTime": 8824,
+      "views24h": 13,
+      "views7d": 162,
+      "viewsAllTime": 8835,
       "url": "/headset/oculusriftdk1",
-      "analyticsLastRetrieved": "2025-02-25T10:01:25.527Z",
+      "analyticsLastRetrieved": "2025-02-26T11:55:04.340Z",
       "__v": 0,
-      "views30d": 490
+      "views30d": 488
     },
     "id": "RappYO3Ms83"
   },
@@ -10730,13 +10730,13 @@
     "manufacturer": "ANTVR",
     "page": {
       "_id": "QdmB-jGWJo1",
-      "views24h": 0,
-      "views7d": 3,
-      "viewsAllTime": 641,
+      "views24h": 2,
+      "views7d": 5,
+      "viewsAllTime": 643,
       "url": "/headset/antvrcyclop",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.615Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 15
+      "views30d": 17
     },
     "id": "r-iieGWVB",
     "specData-tracking": "Uses a marked carpet to track position"
@@ -10897,13 +10897,13 @@
     "manufacturer": "Valve",
     "page": {
       "_id": "FvKsHOAPGY7",
-      "views24h": 39,
-      "views7d": 297,
-      "viewsAllTime": 27763,
+      "views24h": 30,
+      "views7d": 286,
+      "viewsAllTime": 27825,
       "url": "/headset/valveindex",
-      "analyticsLastRetrieved": "2025-02-25T02:43:09.980Z",
+      "analyticsLastRetrieved": "2025-02-26T03:07:43.251Z",
       "__v": 0,
-      "views30d": 1216
+      "views30d": 1213
     },
     "id": "0jLuwg808-j",
     "specData-trackingFrequency": "Positional sensors: 100 Hz"
@@ -11002,13 +11002,13 @@
     "manufacturer": "Dell",
     "page": {
       "_id": "_ieq2IHC6w_",
-      "views24h": 5,
-      "views7d": 63,
-      "viewsAllTime": 3509,
+      "views24h": 8,
+      "views7d": 56,
+      "viewsAllTime": 3517,
       "url": "/headset/dellvisor",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.530Z",
+      "analyticsLastRetrieved": "2025-02-26T05:09:17.511Z",
       "__v": 0,
-      "views30d": 212
+      "views30d": 217
     },
     "id": "tLZ7nuFUiBA"
   },
@@ -11110,13 +11110,13 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "_GSePN24sd5",
-      "views24h": 8,
+      "views24h": 4,
       "views7d": 26,
-      "viewsAllTime": 2972,
+      "viewsAllTime": 2977,
       "url": "/headset/varjovr-3",
-      "analyticsLastRetrieved": "2025-02-25T02:54:38.616Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.508Z",
       "__v": 0,
-      "views30d": 81
+      "views30d": 85
     },
     "id": "TiaAeJx_h",
     "specData-display": "*Peripheral displays. Focal area: uOLED displays.",
@@ -11223,13 +11223,13 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "SBWuQtCq8Qa",
-      "views24h": 6,
-      "views7d": 26,
-      "viewsAllTime": 4561,
+      "views24h": 12,
+      "views7d": 36,
+      "viewsAllTime": 4575,
       "url": "/headset/varjoxr-3",
-      "analyticsLastRetrieved": "2025-02-25T07:11:28.482Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 98
+      "views30d": 112
     },
     "id": "zW3o-NTgY",
     "specData-display": "*Peripheral displays. Focal area: uOLED displays.",
@@ -11326,13 +11326,13 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "iDxm4xZaTUB",
-      "views24h": 2,
-      "views7d": 17,
-      "viewsAllTime": 1777,
+      "views24h": 1,
+      "views7d": 16,
+      "viewsAllTime": 1778,
       "url": "/headset/varjoxr-1",
-      "analyticsLastRetrieved": "2025-02-25T06:20:07.577Z",
+      "analyticsLastRetrieved": "2025-02-26T12:12:07.673Z",
       "__v": 0,
-      "views30d": 76
+      "views30d": 71
     },
     "id": "KVU94d2cl",
     "specData-display": "Peripheral displays. Focal area: uOLED displays.",
@@ -11424,13 +11424,13 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "eOYqLeEWnMp",
-      "views24h": 1,
-      "views7d": 29,
-      "viewsAllTime": 1605,
+      "views24h": 3,
+      "views7d": 18,
+      "viewsAllTime": 1608,
       "url": "/headset/varjovr-2",
-      "analyticsLastRetrieved": "2025-02-25T05:17:40.900Z",
+      "analyticsLastRetrieved": "2025-02-26T09:54:25.328Z",
       "__v": 0,
-      "views30d": 72
+      "views30d": 69
     },
     "id": "Btf6Ka44TO",
     "specData-display": "Peripheral displays. Focal area: uOLED displays.",
@@ -11517,11 +11517,11 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "G_vrZ9nDmOP",
-      "views24h": 3,
-      "views7d": 24,
-      "viewsAllTime": 1447,
+      "views24h": 4,
+      "views7d": 28,
+      "viewsAllTime": 1451,
       "url": "/headset/varjovr-2pro",
-      "analyticsLastRetrieved": "2025-02-25T08:49:43.985Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
       "views30d": 56
     },
@@ -11617,13 +11617,13 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "WTTG7Wh8GvK",
-      "views24h": 3,
-      "views7d": 13,
-      "viewsAllTime": 1326,
+      "views24h": 4,
+      "views7d": 18,
+      "viewsAllTime": 1331,
       "url": "/headset/varjovr-1",
-      "analyticsLastRetrieved": "2025-02-25T07:54:55.922Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 54
+      "views30d": 55
     },
     "id": "VHHLQ1Y2X4Z",
     "specData-display": "Peripheral displays. Focal area: uOLED displays.",
@@ -11702,13 +11702,13 @@
     "manufacturer": "Varjo",
     "page": {
       "_id": "-XtmdFP386d",
-      "views24h": 13,
-      "views7d": 103,
-      "viewsAllTime": 10162,
+      "views24h": 16,
+      "views7d": 104,
+      "viewsAllTime": 10174,
       "url": "/headset/varjoaero",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.615Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.457Z",
       "__v": 0,
-      "views30d": 331
+      "views30d": 334
     },
     "id": "eI13V4rx1",
     "specData-price": "€990 in Europe",
@@ -11781,11 +11781,11 @@
     "page": {
       "_id": "yIg5WaahE",
       "url": "/headset/varjoxr-4",
-      "views24h": 8,
-      "views7d": 73,
-      "views30d": 338,
-      "viewsAllTime": 10248,
-      "analyticsLastRetrieved": "2025-02-25T07:14:40.876Z",
+      "views24h": 14,
+      "views7d": 74,
+      "views30d": 348,
+      "viewsAllTime": 10262,
+      "analyticsLastRetrieved": "2025-02-26T09:49:27.361Z",
       "__v": 0
     },
     "id": "-zNvaJkYN",
@@ -11853,11 +11853,11 @@
     "page": {
       "_id": "BNxKp8_wC3",
       "url": "/headset/varjoxr-4focaledition",
-      "views24h": 7,
-      "views7d": 49,
-      "views30d": 221,
-      "viewsAllTime": 5003,
-      "analyticsLastRetrieved": "2025-02-25T08:36:14.878Z",
+      "views24h": 6,
+      "views7d": 48,
+      "views30d": 224,
+      "viewsAllTime": 5010,
+      "analyticsLastRetrieved": "2025-02-26T12:01:28.854Z",
       "__v": 0
     },
     "id": "8Y7H4YUam",
@@ -11967,13 +11967,13 @@
     "manufacturer": "HP",
     "page": {
       "_id": "cTL0SJRc8Ic",
-      "views24h": 14,
-      "views7d": 46,
-      "viewsAllTime": 4316,
+      "views24h": 6,
+      "views7d": 39,
+      "viewsAllTime": 4319,
       "url": "/headset/hpreverbg2omniceptedition",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.616Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.457Z",
       "__v": 0,
-      "views30d": 172
+      "views30d": 169
     },
     "id": "2WZ0E44Hw",
     "specData-faceTracking": "Face camera available, no native SDK support for face tracking"
@@ -12081,13 +12081,13 @@
     "manufacturer": "HP",
     "page": {
       "_id": "md8R2aNKdvF",
-      "views24h": 1,
-      "views7d": 45,
-      "viewsAllTime": 4282,
+      "views24h": 8,
+      "views7d": 49,
+      "viewsAllTime": 4291,
       "url": "/headset/hpreverb",
-      "analyticsLastRetrieved": "2025-02-25T06:52:31.043Z",
+      "analyticsLastRetrieved": "2025-02-26T09:51:57.921Z",
       "__v": 0,
-      "views30d": 241
+      "views30d": 248
     },
     "id": "fSsgqSNkFQ3"
   },
@@ -12209,13 +12209,13 @@
     "manufacturer": "HP",
     "page": {
       "_id": "xFkAK8kd6_e",
-      "views24h": 35,
-      "views7d": 269,
-      "viewsAllTime": 20597,
+      "views24h": 39,
+      "views7d": 275,
+      "viewsAllTime": 20645,
       "url": "/headset/hpreverbg2",
-      "analyticsLastRetrieved": "2025-02-25T09:14:59.066Z",
+      "analyticsLastRetrieved": "2025-02-26T10:34:57.959Z",
       "__v": 0,
-      "views30d": 1209
+      "views30d": 1213
     },
     "id": "HdfjN_0UlPY"
   },
@@ -12319,13 +12319,13 @@
     "manufacturer": "HP",
     "page": {
       "_id": "p8eO3aQu6QY",
-      "views24h": 3,
-      "views7d": 30,
-      "viewsAllTime": 2591,
+      "views24h": 5,
+      "views7d": 33,
+      "viewsAllTime": 2596,
       "url": "/headset/hpvr1000",
-      "analyticsLastRetrieved": "2025-02-25T06:56:55.546Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 125
+      "views30d": 122
     },
     "id": "qqiOMq1tZrT"
   },
@@ -12418,13 +12418,13 @@
     "manufacturer": "Deca",
     "page": {
       "_id": "8xZFkDDcgbC",
-      "views24h": 3,
-      "views7d": 11,
-      "viewsAllTime": 1319,
+      "views24h": 2,
+      "views7d": 12,
+      "viewsAllTime": 1320,
       "url": "/headset/decagear",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.616Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 43
+      "views30d": 41
     },
     "id": "Yr79YgMHc"
   },
@@ -12517,13 +12517,13 @@
     "manufacturer": "Nolo",
     "page": {
       "_id": "YVlGhgQ4jgp",
-      "views24h": 2,
-      "views7d": 6,
-      "viewsAllTime": 1039,
+      "views24h": 4,
+      "views7d": 9,
+      "viewsAllTime": 1042,
       "url": "/headset/nolox1",
-      "analyticsLastRetrieved": "2025-02-25T09:48:29.584Z",
+      "analyticsLastRetrieved": "2025-02-26T10:39:35.070Z",
       "__v": 0,
-      "views30d": 34
+      "views30d": 37
     },
     "id": "ptwGxE4nH"
   },
@@ -12612,13 +12612,13 @@
     "manufacturer": "Nolo",
     "page": {
       "_id": "EEWUGEtNyPk",
-      "views24h": 0,
-      "views7d": 8,
-      "viewsAllTime": 1791,
+      "views24h": 2,
+      "views7d": 9,
+      "viewsAllTime": 1794,
       "url": "/headset/nolosonic",
-      "analyticsLastRetrieved": "2025-02-25T07:52:53.343Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
-      "views30d": 49
+      "views30d": 51
     },
     "id": "I_Fsf8iyp",
     "specData-refreshRate": "90 Hz available at 1832x1920 per eye (upscaled)",
@@ -12671,12 +12671,12 @@
     "page": {
       "_id": "O0MoIeU7P_",
       "url": "/headset/nolovrglass",
-      "views24h": 8,
-      "views7d": 29,
-      "viewsAllTime": 3400,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.530Z",
+      "views24h": 4,
+      "views7d": 31,
+      "viewsAllTime": 3405,
+      "analyticsLastRetrieved": "2025-02-26T03:40:23.897Z",
       "__v": 0,
-      "views30d": 140
+      "views30d": 141
     },
     "id": "vktjm1mHt"
   },
@@ -12745,12 +12745,12 @@
     "page": {
       "_id": "C1Lvt1axvC",
       "url": "/headset/nolosonic2",
-      "views24h": 2,
-      "views7d": 39,
-      "viewsAllTime": 2849,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.530Z",
+      "views24h": 6,
+      "views7d": 41,
+      "viewsAllTime": 2858,
+      "analyticsLastRetrieved": "2025-02-26T05:34:16.453Z",
       "__v": 0,
-      "views30d": 204
+      "views30d": 203
     },
     "id": "tQWId7GUI",
     "specData-refreshRate": "90 Hz mode also available",
@@ -12836,10 +12836,10 @@
     "page": {
       "_id": "bAWoPRGTqIL",
       "views24h": 2,
-      "views7d": 10,
-      "viewsAllTime": 1194,
+      "views7d": 12,
+      "viewsAllTime": 1196,
       "url": "/headset/canonmreals1",
-      "analyticsLastRetrieved": "2025-02-25T09:15:54.561Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
       "views30d": 49
     },
@@ -12894,12 +12894,12 @@
     "page": {
       "_id": "gJipCM5U7m",
       "url": "/headset/canonmrealx1",
-      "views24h": 1,
-      "views7d": 12,
-      "viewsAllTime": 1723,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.616Z",
+      "views24h": 5,
+      "views7d": 17,
+      "viewsAllTime": 1728,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.478Z",
       "__v": 0,
-      "views30d": 69
+      "views30d": 71
     },
     "id": "dN_7IuHU8"
   },
@@ -12986,10 +12986,10 @@
     "page": {
       "_id": "H_4iimQTt8w",
       "views24h": 1,
-      "views7d": 14,
-      "viewsAllTime": 4313,
+      "views7d": 6,
+      "viewsAllTime": 4314,
       "url": "/headset/fortevfx1",
-      "analyticsLastRetrieved": "2025-02-25T13:26:42.747Z",
+      "analyticsLastRetrieved": "2025-02-26T14:32:41.964Z",
       "__v": 0,
       "views30d": 83
     },
@@ -13079,11 +13079,11 @@
     "manufacturer": "Woxter",
     "page": {
       "_id": "jXTDST8rFz-",
-      "views24h": 1,
-      "views7d": 4,
+      "views24h": 0,
+      "views7d": 3,
       "viewsAllTime": 530,
       "url": "/headset/woxterneovr100",
-      "analyticsLastRetrieved": "2025-02-25T07:32:34.774Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
       "views30d": 15
     },
@@ -13184,13 +13184,13 @@
     "manufacturer": "iQIYI",
     "page": {
       "_id": "xTM9yhf6oQK",
-      "views24h": 12,
-      "views7d": 23,
-      "viewsAllTime": 1094,
+      "views24h": 2,
+      "views7d": 27,
+      "viewsAllTime": 1099,
       "url": "/headset/iqiyiqiyu3",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.531Z",
+      "analyticsLastRetrieved": "2025-02-26T05:42:10.311Z",
       "__v": 0,
-      "views30d": 67
+      "views30d": 69
     },
     "id": "4RLmGGwGi"
   },
@@ -13275,12 +13275,12 @@
     "page": {
       "_id": "swYlbAGx3g",
       "url": "/headset/iqiyiqiyudream",
-      "views24h": 0,
-      "views7d": 9,
-      "viewsAllTime": 926,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.616Z",
+      "views24h": 3,
+      "views7d": 11,
+      "viewsAllTime": 929,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.479Z",
       "__v": 0,
-      "views30d": 47
+      "views30d": 50
     },
     "id": "DQSuVFpKU",
     "specData-price": "¥1999",
@@ -13366,10 +13366,10 @@
     "page": {
       "_id": "DJNE8X6oz1",
       "url": "/headset/iqiyiqiyudreampro",
-      "views24h": 3,
-      "views7d": 20,
-      "viewsAllTime": 1198,
-      "analyticsLastRetrieved": "2025-02-25T13:41:57.227Z",
+      "views24h": 2,
+      "views7d": 12,
+      "viewsAllTime": 1200,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.479Z",
       "__v": 0,
       "views30d": 73
     },
@@ -13459,12 +13459,12 @@
     "page": {
       "_id": "k_fhO7HIHA",
       "url": "/headset/iqiyiqiyumix",
-      "views24h": 5,
-      "views7d": 19,
-      "viewsAllTime": 1881,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.532Z",
+      "views24h": 1,
+      "views7d": 14,
+      "viewsAllTime": 1883,
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.508Z",
       "__v": 0,
-      "views30d": 118
+      "views30d": 116
     },
     "id": "YfS9ehgnm",
     "specData-price": "￥3499",
@@ -13556,11 +13556,11 @@
     "manufacturer": "ClassVR",
     "page": {
       "_id": "B1Kxmc_8FrT",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 2,
       "viewsAllTime": 1004,
       "url": "/headset/classvr",
-      "analyticsLastRetrieved": "2025-02-25T08:45:57.627Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.457Z",
       "__v": 0,
       "views30d": 59
     },
@@ -13654,13 +13654,13 @@
     "manufacturer": "ClassVR",
     "page": {
       "_id": "B0jxzzI8B-M",
-      "views24h": 3,
-      "views7d": 10,
-      "viewsAllTime": 937,
+      "views24h": 4,
+      "views7d": 13,
+      "viewsAllTime": 941,
       "url": "/headset/classvrpremium",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.616Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.479Z",
       "__v": 0,
-      "views30d": 37
+      "views30d": 38
     },
     "id": "5mHTIP0He"
   },
@@ -13746,13 +13746,13 @@
     "manufacturer": "IIS",
     "page": {
       "_id": "ebNxexUv-7r",
-      "views24h": 0,
-      "views7d": 11,
-      "viewsAllTime": 808,
+      "views24h": 2,
+      "views7d": 9,
+      "viewsAllTime": 810,
       "url": "/headset/iisvfx3d",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.479Z",
       "__v": 0,
-      "views30d": 31
+      "views30d": 30
     },
     "id": "0sU1hGq-0"
   },
@@ -13845,7 +13845,7 @@
       "views7d": 0,
       "viewsAllTime": 387,
       "url": "/headset/qwrvrone",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.479Z",
       "__v": 0,
       "views30d": 2
     },
@@ -13932,7 +13932,7 @@
       "views7d": 2,
       "viewsAllTime": 491,
       "url": "/headset/qwrvrone4k",
-      "analyticsLastRetrieved": "2025-02-25T03:27:28.681Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.516Z",
       "__v": 0,
       "views30d": 8
     },
@@ -14023,13 +14023,13 @@
     "manufacturer": "Arpara",
     "page": {
       "_id": "pHslgIBMU55",
-      "views24h": 7,
-      "views7d": 26,
-      "viewsAllTime": 2956,
+      "views24h": 2,
+      "views7d": 25,
+      "viewsAllTime": 2959,
       "url": "/headset/arparavr",
-      "analyticsLastRetrieved": "2025-02-25T09:20:47.491Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.457Z",
       "__v": 0,
-      "views30d": 105
+      "views30d": 102
     },
     "id": "9LBb7aUH9",
     "specData-resolution": "30 Hz only",
@@ -14123,13 +14123,13 @@
     "manufacturer": "Arpara",
     "page": {
       "_id": "Sg9rP0ca8Th",
-      "views24h": 0,
+      "views24h": 1,
       "views7d": 7,
-      "viewsAllTime": 2282,
+      "viewsAllTime": 2283,
       "url": "/headset/arparavrallinone",
-      "analyticsLastRetrieved": "2025-02-25T08:50:39.631Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.458Z",
       "__v": 0,
-      "views30d": 24
+      "views30d": 25
     },
     "id": "fiNjNXVN4",
     "specData-resolution": "*70 Hz mode. 90 Hz mode: 1920x1920 per-eye"
@@ -14215,13 +14215,13 @@
     "manufacturer": "Microsoft",
     "page": {
       "_id": "bm6SwNp00fk",
-      "views24h": 9,
-      "views7d": 119,
-      "viewsAllTime": 12117,
+      "views24h": 17,
+      "views7d": 116,
+      "viewsAllTime": 12163,
       "url": "/headset/microsofthololens2",
-      "analyticsLastRetrieved": "2025-02-25T02:17:44.704Z",
+      "analyticsLastRetrieved": "2025-02-26T03:05:10.684Z",
       "__v": 0,
-      "views30d": 495
+      "views30d": 520
     },
     "id": "EkSDYv0cW"
   },
@@ -14294,13 +14294,13 @@
     "manufacturer": "Microsoft",
     "page": {
       "_id": "EvocOLGZB8d",
-      "views24h": 1,
-      "views7d": 10,
-      "viewsAllTime": 1993,
+      "views24h": 2,
+      "views7d": 13,
+      "viewsAllTime": 1997,
       "url": "/headset/microsofthololens",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.528Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.480Z",
       "__v": 0,
-      "views30d": 80
+      "views30d": 82
     },
     "id": "tSCQxsAA_"
   },
@@ -14372,11 +14372,11 @@
     "manufacturer": "Magic Leap",
     "page": {
       "_id": "Lgl8uunIAvX",
-      "views24h": 6,
-      "views7d": 28,
-      "viewsAllTime": 2401,
+      "views24h": 0,
+      "views7d": 22,
+      "viewsAllTime": 2403,
       "url": "/headset/magicleap1",
-      "analyticsLastRetrieved": "2025-02-25T06:28:53.296Z",
+      "analyticsLastRetrieved": "2025-02-26T14:38:33.156Z",
       "__v": 0,
       "views30d": 77
     },
@@ -14459,13 +14459,13 @@
     "manufacturer": "Magic Leap",
     "page": {
       "_id": "7dgees1iney",
-      "views24h": 18,
-      "views7d": 163,
-      "viewsAllTime": 13511,
+      "views24h": 28,
+      "views7d": 129,
+      "viewsAllTime": 13550,
       "url": "/headset/magicleap2",
-      "analyticsLastRetrieved": "2025-02-25T02:06:17.522Z",
+      "analyticsLastRetrieved": "2025-02-26T02:50:37.061Z",
       "__v": 0,
-      "views30d": 681
+      "views30d": 698
     },
     "id": "mt3AEYJu5",
     "specData-price": "Developer pro: $4099, Enterprise: $4999",
@@ -14542,13 +14542,13 @@
     "manufacturer": "Nreal",
     "page": {
       "_id": "-0bjHIXHjZw",
-      "views24h": 3,
-      "views7d": 32,
-      "viewsAllTime": 3588,
+      "views24h": 2,
+      "views7d": 23,
+      "viewsAllTime": 3589,
       "url": "/headset/nreallight",
-      "analyticsLastRetrieved": "2025-02-25T06:56:44.360Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
-      "views30d": 136
+      "views30d": 137
     },
     "id": "Y2w9aRodp"
   },
@@ -14618,13 +14618,13 @@
     "manufacturer": "Nreal",
     "page": {
       "_id": "8FFe-XNVviy",
-      "views24h": 5,
-      "views7d": 39,
-      "viewsAllTime": 6845,
+      "views24h": 14,
+      "views7d": 50,
+      "viewsAllTime": 6860,
       "url": "/headset/nrealair",
-      "analyticsLastRetrieved": "2025-02-25T13:06:41.542Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.458Z",
       "__v": 0,
-      "views30d": 191
+      "views30d": 202
     },
     "id": "jtG3rIKIH",
     "specData-refreshRate": "Developer mode: 72 Hz"
@@ -14698,11 +14698,11 @@
     "manufacturer": "Realmax",
     "page": {
       "_id": "yn2m0ghxbw5",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 2,
       "viewsAllTime": 683,
       "url": "/headset/realmaxqian",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.532Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.516Z",
       "__v": 0,
       "views30d": 36
     },
@@ -14759,13 +14759,13 @@
     "manufacturer": "DreamWorld",
     "page": {
       "_id": "VkNGlbKruG8",
-      "views24h": 2,
-      "views7d": 11,
-      "viewsAllTime": 957,
+      "views24h": 0,
+      "views7d": 9,
+      "viewsAllTime": 959,
       "url": "/headset/dreamglass",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.528Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.480Z",
       "__v": 0,
-      "views30d": 55
+      "views30d": 57
     },
     "id": "MNTNWLDu4",
     "specData-deviceType": "Can also be powered by an Android smartphone",
@@ -14841,13 +14841,13 @@
     "manufacturer": "DreamWorld",
     "page": {
       "_id": "fDltB7pfz9E",
-      "views24h": 5,
-      "views7d": 20,
-      "viewsAllTime": 1652,
+      "views24h": 11,
+      "views7d": 26,
+      "viewsAllTime": 1662,
       "url": "/headset/dreamglass4k",
-      "analyticsLastRetrieved": "2025-02-25T11:40:36.655Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
-      "views30d": 75
+      "views30d": 83
     },
     "id": "GlONfBjEP",
     "specData-weight": "Excludes cable and controller/battery pack",
@@ -14912,13 +14912,13 @@
     "manufacturer": "DreamWorld",
     "page": {
       "_id": "xRyK_EQSoUw",
-      "views24h": 2,
-      "views7d": 7,
-      "viewsAllTime": 835,
+      "views24h": 3,
+      "views7d": 8,
+      "viewsAllTime": 838,
       "url": "/headset/dreamglass4kplus",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.529Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.480Z",
       "__v": 0,
-      "views30d": 34
+      "views30d": 35
     },
     "id": "GgaK5c41-",
     "specData-weight": "Excludes cable and controller/battery pack",
@@ -14984,11 +14984,11 @@
     "manufacturer": "DreamWorld",
     "page": {
       "_id": "_ylgHnieqR",
-      "views24h": 1,
-      "views7d": 11,
+      "views24h": 0,
+      "views7d": 9,
       "viewsAllTime": 689,
       "url": "/headset/dreamglassleadplus",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.480Z",
       "__v": 0,
       "views30d": 40
     },
@@ -15052,13 +15052,13 @@
     "manufacturer": "DreamWorld",
     "page": {
       "_id": "weT6zN8g_",
-      "views24h": 2,
-      "views7d": 14,
-      "viewsAllTime": 1027,
+      "views24h": 0,
+      "views7d": 15,
+      "viewsAllTime": 1030,
       "url": "/headset/dreamglassleadpro",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.532Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 49
+      "views30d": 50
     },
     "id": "-yaNtlMz9",
     "specData-wirelessVideo": "Can stream 2D content from phones, tablets, and PCs"
@@ -15130,10 +15130,10 @@
     "page": {
       "_id": "brV8YMA2O6",
       "url": "/headset/dreamglassflow",
-      "views24h": 6,
-      "views7d": 29,
+      "views24h": 2,
+      "views7d": 21,
       "viewsAllTime": 2053,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.480Z",
       "__v": 0,
       "views30d": 68
     },
@@ -15202,11 +15202,11 @@
     "manufacturer": "Shadow Creator",
     "page": {
       "_id": "aB_0JB8YuML",
-      "views24h": 5,
+      "views24h": 0,
       "views7d": 6,
       "viewsAllTime": 561,
       "url": "/headset/shadowcreatorhalomini",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.480Z",
       "__v": 0,
       "views30d": 20
     },
@@ -15273,11 +15273,11 @@
     "manufacturer": "Shadow Creator",
     "page": {
       "_id": "5w2HOz0yPlQ",
-      "views24h": 3,
+      "views24h": 0,
       "views7d": 6,
       "viewsAllTime": 654,
       "url": "/headset/shadowcreatoractionone",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.529Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.481Z",
       "__v": 0,
       "views30d": 26
     },
@@ -15388,12 +15388,12 @@
     "page": {
       "_id": "iM8nnO54W",
       "url": "/headset/metaquestpro",
-      "views24h": 71,
-      "views7d": 573,
-      "viewsAllTime": 45452,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.529Z",
+      "views24h": 63,
+      "views7d": 533,
+      "viewsAllTime": 45509,
+      "analyticsLastRetrieved": "2025-02-26T09:41:15.063Z",
       "__v": 0,
-      "views30d": 2488
+      "views30d": 2466
     },
     "id": "-MpSqv-rB",
     "specData-price": "Launch price: $1,499",
@@ -15506,12 +15506,12 @@
     "page": {
       "_id": "uvDBsmiYZH",
       "url": "/headset/metaquest3",
-      "views24h": 283,
-      "views7d": 2213,
-      "viewsAllTime": 165384,
-      "analyticsLastRetrieved": "2025-02-25T04:11:22.361Z",
+      "views24h": 377,
+      "views7d": 2308,
+      "viewsAllTime": 165809,
+      "analyticsLastRetrieved": "2025-02-26T04:16:40.128Z",
       "__v": 0,
-      "views30d": 9822
+      "views30d": 9944
     },
     "id": "0q3goALzg",
     "specData-price": "128 GB model. 512 GB model: $649",
@@ -15632,10 +15632,10 @@
       "_id": "bYm_qG1X0E",
       "url": "/headset/metaquest3s",
       "views24h": 150,
-      "views7d": 1024,
-      "views30d": 4561,
-      "viewsAllTime": 38847,
-      "analyticsLastRetrieved": "2025-02-25T09:05:20.180Z",
+      "views7d": 1049,
+      "views30d": 4583,
+      "viewsAllTime": 39021,
+      "analyticsLastRetrieved": "2025-02-26T09:24:15.145Z",
       "__v": 0
     },
     "id": "dC53TrTC0",
@@ -15693,13 +15693,13 @@
     "manufacturer": "ThirdEye",
     "page": {
       "_id": "xvGvJjyDkU-",
-      "views24h": 1,
-      "views7d": 3,
-      "viewsAllTime": 671,
+      "views24h": 0,
+      "views7d": 4,
+      "viewsAllTime": 672,
       "url": "/headset/thirdeyex2",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.529Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.481Z",
       "__v": 0,
-      "views30d": 23
+      "views30d": 24
     },
     "id": "-pmNU-it0"
   },
@@ -15747,13 +15747,13 @@
     "manufacturer": "ThirdEye",
     "page": {
       "_id": "OOq2cBStUsw",
-      "views24h": 4,
-      "views7d": 7,
-      "viewsAllTime": 1248,
+      "views24h": 2,
+      "views7d": 9,
+      "viewsAllTime": 1250,
       "url": "/headset/thirdeyerazormrglasses",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.532Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 27
+      "views30d": 29
     },
     "id": "sMDYLv4VB",
     "specData-deviceType": "Can also be powered by a PC or tablet"
@@ -15815,13 +15815,13 @@
     "manufacturer": "Rokid",
     "page": {
       "_id": "4IdjYMwkFj3",
-      "views24h": 1,
-      "views7d": 20,
-      "viewsAllTime": 2360,
+      "views24h": 4,
+      "views7d": 21,
+      "viewsAllTime": 2364,
       "url": "/headset/rokidglass2",
-      "analyticsLastRetrieved": "2025-02-25T05:03:38.221Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.481Z",
       "__v": 0,
-      "views30d": 65
+      "views30d": 69
     },
     "id": "WCyEdkzUk",
     "specData-weight": "Excludes battery pack",
@@ -15865,10 +15865,10 @@
     "page": {
       "_id": "q22IgGIWS4o",
       "views24h": 1,
-      "views7d": 8,
+      "views7d": 7,
       "viewsAllTime": 1361,
       "url": "/headset/rokidvision2",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.529Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.482Z",
       "__v": 0,
       "views30d": 42
     },
@@ -15921,13 +15921,13 @@
     "manufacturer": "Rokid",
     "page": {
       "_id": "98JpWgdFziK",
-      "views24h": 1,
-      "views7d": 9,
-      "viewsAllTime": 2165,
+      "views24h": 4,
+      "views7d": 14,
+      "viewsAllTime": 2170,
       "url": "/headset/rokidx-craft",
-      "analyticsLastRetrieved": "2025-02-25T08:49:42.821Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.482Z",
       "__v": 0,
-      "views30d": 53
+      "views30d": 56
     },
     "id": "W1kyhxveC",
     "specData-wifi": "Also supports 5G"
@@ -15987,11 +15987,11 @@
     "manufacturer": "Rokid",
     "page": {
       "_id": "20SC3oeVexO",
-      "views24h": 6,
-      "views7d": 19,
+      "views24h": 0,
+      "views7d": 16,
       "viewsAllTime": 2892,
       "url": "/headset/rokidair",
-      "analyticsLastRetrieved": "2025-02-25T01:44:54.159Z",
+      "analyticsLastRetrieved": "2025-02-26T05:11:12.649Z",
       "__v": 0,
       "views30d": 99
     },
@@ -16048,12 +16048,12 @@
     "page": {
       "_id": "RmOYowAbO",
       "views24h": 1,
-      "views7d": 11,
-      "viewsAllTime": 3335,
+      "views7d": 7,
+      "viewsAllTime": 3336,
       "url": "/headset/rokidairpro",
-      "analyticsLastRetrieved": "2025-02-25T09:54:55.955Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.482Z",
       "__v": 0,
-      "views30d": 97
+      "views30d": 98
     },
     "id": "Owzy8dkih",
     "specData-deviceType": "Can also be powered by a PC or tablet"
@@ -16119,12 +16119,12 @@
     "page": {
       "_id": "xpF6-k1WJS",
       "url": "/headset/rokidmax",
-      "views24h": 14,
-      "views7d": 32,
-      "viewsAllTime": 8553,
-      "analyticsLastRetrieved": "2025-02-25T06:45:49.987Z",
+      "views24h": 2,
+      "views7d": 26,
+      "viewsAllTime": 8555,
+      "analyticsLastRetrieved": "2025-02-26T11:29:10.129Z",
       "__v": 0,
-      "views30d": 192
+      "views30d": 193
     },
     "id": "y-HjRHyLZ",
     "specData-price": "With wireless adapter: $508",
@@ -16180,12 +16180,12 @@
     "page": {
       "_id": "FzuLAOa3F",
       "url": "/headset/rokidmaxpro",
-      "views24h": 21,
-      "views7d": 94,
-      "viewsAllTime": 18582,
-      "analyticsLastRetrieved": "2025-02-25T12:20:47.562Z",
+      "views24h": 10,
+      "views7d": 84,
+      "viewsAllTime": 18593,
+      "analyticsLastRetrieved": "2025-02-26T13:59:01.517Z",
       "__v": 0,
-      "views30d": 406
+      "views30d": 411
     },
     "id": "3rjj5keYC",
     "specData-adjustableDiopter": "Up to -6 diopters"
@@ -16240,12 +16240,12 @@
     "page": {
       "_id": "d-SUvRCIx_2",
       "views24h": 0,
-      "views7d": 14,
+      "views7d": 6,
       "viewsAllTime": 2625,
       "url": "/headset/nvisnvisorsx60",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.530Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.482Z",
       "__v": 0,
-      "views30d": 36
+      "views30d": 35
     },
     "id": "kkzoj2S1f",
     "specData-optics": "Adjustable eye relief",
@@ -16297,11 +16297,11 @@
     "manufacturer": "Roscosmos",
     "page": {
       "_id": "eJZJcvu8jzc",
-      "views24h": 3,
+      "views24h": 0,
       "views7d": 6,
       "viewsAllTime": 3715,
       "url": "/headset/roscosmosxr-2",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.482Z",
       "__v": 0,
       "views30d": 23
     },
@@ -16362,13 +16362,13 @@
     "manufacturer": "Google",
     "page": {
       "_id": "Bmgqmha_vVY",
-      "views24h": 1,
+      "views24h": 2,
       "views7d": 12,
-      "viewsAllTime": 1146,
+      "viewsAllTime": 1148,
       "url": "/headset/googleglassexploreredition",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.530Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.482Z",
       "__v": 0,
-      "views30d": 83
+      "views30d": 84
     },
     "id": "HDAcu5kC4"
   },
@@ -16437,13 +16437,13 @@
     "manufacturer": "Google",
     "page": {
       "_id": "ryRGzPDyy_D",
-      "views24h": 4,
-      "views7d": 21,
-      "viewsAllTime": 2550,
+      "views24h": 3,
+      "views7d": 22,
+      "viewsAllTime": 2555,
       "url": "/headset/googleglassenterpriseedition2",
-      "analyticsLastRetrieved": "2025-02-25T12:04:15.390Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.458Z",
       "__v": 0,
-      "views30d": 99
+      "views30d": 98
     },
     "id": "EnqtMtA05",
     "specData-memory": "LPDDR4 memory",
@@ -16502,13 +16502,13 @@
     "manufacturer": "MAD Gaze",
     "page": {
       "_id": "0o-DXMPgxZY",
-      "views24h": 2,
-      "views7d": 7,
-      "viewsAllTime": 831,
+      "views24h": 4,
+      "views7d": 10,
+      "viewsAllTime": 834,
       "url": "/headset/madgazeglowplus",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.617Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 34
+      "views30d": 37
     },
     "id": "sCAIQq45W",
     "specData-deviceType": "Can also be powered by a PC or console"
@@ -16565,12 +16565,12 @@
     "page": {
       "_id": "OZ5Lq8nfb8L",
       "views24h": 0,
-      "views7d": 2,
-      "viewsAllTime": 555,
+      "views7d": 3,
+      "viewsAllTime": 556,
       "url": "/headset/madgazevader",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.530Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 16
+      "views30d": 17
     },
     "id": "KdZOqV1Ev",
     "specData-controllers": "Can be controlled via \"MAD Gaze Connector\" companion app"
@@ -16619,13 +16619,13 @@
     "manufacturer": "MAD Gaze",
     "page": {
       "_id": "k_WQp8xbwTA",
-      "views24h": 2,
+      "views24h": 0,
       "views7d": 4,
       "viewsAllTime": 933,
       "url": "/headset/madgazewave",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.618Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 40
+      "views30d": 39
     },
     "id": "Vg5P0BH6B",
     "specData-deviceType": "Can also be powered by a PC or console",
@@ -16680,13 +16680,13 @@
     "manufacturer": "Diver-X",
     "page": {
       "_id": "qd2TQjdLo-s",
-      "views24h": 4,
-      "views7d": 27,
+      "views24h": 0,
+      "views7d": 25,
       "viewsAllTime": 1500,
       "url": "/headset/diver-xhalfdive",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.532Z",
+      "analyticsLastRetrieved": "2025-02-26T03:42:59.148Z",
       "__v": 0,
-      "views30d": 89
+      "views30d": 87
     },
     "id": "miAeuMMJL",
     "specData-price": "Varifocal lens model: $4000",
@@ -16752,13 +16752,13 @@
     "manufacturer": "Everysight",
     "page": {
       "_id": "OxY-8CDiobU",
-      "views24h": 3,
+      "views24h": 0,
       "views7d": 6,
-      "viewsAllTime": 966,
+      "viewsAllTime": 967,
       "url": "/headset/everysightraptor",
-      "analyticsLastRetrieved": "2025-02-25T07:45:44.991Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 32
+      "views30d": 31
     },
     "id": "UR8rXYX7t",
     "specData-storage": "32 GB also avaliable"
@@ -16814,13 +16814,13 @@
     "manufacturer": "Meta (2016)",
     "page": {
       "_id": "VhuHOtqkXDr",
-      "views24h": 1,
-      "views7d": 38,
-      "viewsAllTime": 1853,
+      "views24h": 12,
+      "views7d": 45,
+      "viewsAllTime": 1867,
       "url": "/headset/meta2",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.533Z",
+      "analyticsLastRetrieved": "2025-02-26T05:23:08.439Z",
       "__v": 0,
-      "views30d": 113
+      "views30d": 125
     },
     "id": "98wLZvTJQ"
   },
@@ -16874,11 +16874,11 @@
     "manufacturer": "Engo Eyewear",
     "page": {
       "_id": "0I-OUDWycvF",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 3,
       "viewsAllTime": 556,
       "url": "/headset/engoeyewear",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.530Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.762Z",
       "__v": 0,
       "views30d": 19
     },
@@ -16935,12 +16935,12 @@
     "page": {
       "_id": "Cijr4PYyuv",
       "url": "/headset/engo2",
-      "views24h": 1,
-      "views7d": 14,
-      "viewsAllTime": 1952,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.530Z",
+      "views24h": 0,
+      "views7d": 11,
+      "viewsAllTime": 1954,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 44
+      "views30d": 45
     },
     "id": "Z1gjavg5l",
     "specData-price": "€329.95",
@@ -16982,13 +16982,13 @@
     "manufacturer": "XYZ Reality",
     "page": {
       "_id": "amRu9bj2eCv",
-      "views24h": 7,
-      "views7d": 20,
-      "viewsAllTime": 1198,
+      "views24h": 4,
+      "views7d": 23,
+      "viewsAllTime": 1201,
       "url": "/headset/xyzatom",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.530Z",
+      "analyticsLastRetrieved": "2025-02-26T13:05:18.266Z",
       "__v": 0,
-      "views30d": 59
+      "views30d": 62
     },
     "id": "pOfzEGXDw"
   },
@@ -17040,13 +17040,13 @@
     "manufacturer": "Cosmo Connected",
     "page": {
       "_id": "n7I718TqkBh",
-      "views24h": 1,
-      "views7d": 15,
-      "viewsAllTime": 1067,
+      "views24h": 0,
+      "views7d": 13,
+      "viewsAllTime": 1069,
       "url": "/headset/cosmovision",
-      "analyticsLastRetrieved": "2025-02-25T10:26:43.112Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 76
+      "views30d": 75
     },
     "id": "YR7b7p4DU",
     "specData-display": "Monocular display"
@@ -17122,13 +17122,13 @@
     "manufacturer": "INMO",
     "page": {
       "_id": "w9TzujGNbWE",
-      "views24h": 6,
-      "views7d": 28,
-      "viewsAllTime": 2830,
+      "views24h": 5,
+      "views7d": 30,
+      "viewsAllTime": 2834,
       "url": "/headset/inmoair",
-      "analyticsLastRetrieved": "2025-02-25T11:49:00.833Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.459Z",
       "__v": 0,
-      "views30d": 140
+      "views30d": 144
     },
     "id": "wJVRRflMf"
   },
@@ -17190,12 +17190,12 @@
     "page": {
       "_id": "pnh95SpZcV",
       "url": "/headset/inmoair2",
-      "views24h": 12,
-      "views7d": 37,
-      "viewsAllTime": 7753,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.618Z",
+      "views24h": 2,
+      "views7d": 33,
+      "viewsAllTime": 7755,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 160
+      "views30d": 158
     },
     "id": "UdgWHTDXY",
     "specData-price": "¥3,799"
@@ -17264,13 +17264,13 @@
     "manufacturer": "SimulaVR",
     "page": {
       "_id": "Tr2eoSbDFYE",
-      "views24h": 7,
-      "views7d": 42,
-      "viewsAllTime": 2452,
+      "views24h": 10,
+      "views7d": 46,
+      "viewsAllTime": 2460,
       "url": "/headset/simulaone",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "analyticsLastRetrieved": "2025-02-26T14:27:34.565Z",
       "__v": 0,
-      "views30d": 177
+      "views30d": 178
     },
     "id": "tGQummlMJ",
     "specData-price": "Founder's edition: $4,999. Tethered: $1,999",
@@ -17360,11 +17360,11 @@
     "page": {
       "_id": "BNjWDCeyo",
       "url": "/headset/somniumvr1",
-      "views24h": 22,
-      "views7d": 152,
-      "views30d": 668,
-      "viewsAllTime": 14444,
-      "analyticsLastRetrieved": "2025-02-25T10:02:15.468Z",
+      "views24h": 18,
+      "views7d": 136,
+      "views30d": 666,
+      "viewsAllTime": 14460,
+      "analyticsLastRetrieved": "2025-02-26T11:40:41.045Z",
       "__v": 0
     },
     "id": "fJwyyQiC3",
@@ -17437,12 +17437,12 @@
     "page": {
       "_id": "2N71UMC_ukE",
       "views24h": 1,
-      "views7d": 20,
-      "viewsAllTime": 1039,
+      "views7d": 19,
+      "viewsAllTime": 1040,
       "url": "/headset/vuzixbladeupgraded",
-      "analyticsLastRetrieved": "2025-02-25T05:18:36.283Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 56
+      "views30d": 57
     },
     "id": "1PE1xcEFb",
     "specData-adjustableDiopter": "Prescription inserts available",
@@ -17495,13 +17495,13 @@
     "manufacturer": "Vuzix",
     "page": {
       "_id": "xjUlflFkCSX",
-      "views24h": 13,
-      "views7d": 30,
-      "viewsAllTime": 2117,
+      "views24h": 10,
+      "views7d": 27,
+      "viewsAllTime": 2118,
       "url": "/headset/vuzixshield",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0,
-      "views30d": 143
+      "views30d": 144
     },
     "id": "PjuDk6-Sz",
     "specData-display": "Monochrome display"
@@ -17574,13 +17574,13 @@
     "manufacturer": "Vuzix",
     "page": {
       "_id": "NFC9EO__Re5",
-      "views24h": 2,
-      "views7d": 10,
+      "views24h": 0,
+      "views7d": 9,
       "viewsAllTime": 1163,
       "url": "/headset/vuzixm400",
-      "analyticsLastRetrieved": "2025-02-25T13:00:07.306Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.483Z",
       "__v": 0,
-      "views30d": 59
+      "views30d": 56
     },
     "id": "r2UX2RNAB",
     "specData-memory": "LPDDR4 memory",
@@ -17652,13 +17652,13 @@
     "manufacturer": "Vuzix",
     "page": {
       "_id": "mBXZ9_WeuGY",
-      "views24h": 1,
-      "views7d": 9,
-      "viewsAllTime": 943,
+      "views24h": 0,
+      "views7d": 6,
+      "viewsAllTime": 944,
       "url": "/headset/vuzixm4000",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "analyticsLastRetrieved": "2025-02-26T11:36:40.889Z",
       "__v": 0,
-      "views30d": 29
+      "views30d": 30
     },
     "id": "AS20GfYCt",
     "specData-memory": "LPDDR4 memory",
@@ -17713,12 +17713,12 @@
     "page": {
       "_id": "J-348FWue5",
       "views24h": 4,
-      "views7d": 25,
-      "viewsAllTime": 883,
+      "views7d": 14,
+      "viewsAllTime": 884,
       "url": "/headset/vuzixiwearvr920",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.618Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.460Z",
       "__v": 0,
-      "views30d": 63
+      "views30d": 64
     },
     "id": "Qp0ziuknE"
   },
@@ -17785,11 +17785,11 @@
       "_id": "5uvKeqqyrb",
       "url": "/headset/vuzixblade2",
       "views24h": 1,
-      "views7d": 23,
-      "viewsAllTime": 2118,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.618Z",
+      "views7d": 15,
+      "viewsAllTime": 2119,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
-      "views30d": 87
+      "views30d": 88
     },
     "id": "u1Gt3j4C1",
     "specData-adjustableDiopter": "Prescription inserts available",
@@ -17850,12 +17850,12 @@
     "page": {
       "_id": "UxlzJHb3Ur",
       "url": "/headset/vuzixm400c",
-      "views24h": 0,
-      "views7d": 12,
-      "viewsAllTime": 976,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "views24h": 2,
+      "views7d": 9,
+      "viewsAllTime": 978,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
-      "views30d": 27
+      "views30d": 28
     },
     "id": "fdx61QDyF",
     "specData-deviceType": "Can also be powered by a smartphone",
@@ -17916,13 +17916,13 @@
     "manufacturer": "Oppo",
     "page": {
       "_id": "gjx68mvmQOj",
-      "views24h": 0,
-      "views7d": 13,
-      "viewsAllTime": 1882,
+      "views24h": 1,
+      "views7d": 18,
+      "viewsAllTime": 1887,
       "url": "/headset/oppoairglass",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.533Z",
+      "analyticsLastRetrieved": "2025-02-26T04:10:03.035Z",
       "__v": 0,
-      "views30d": 51
+      "views30d": 54
     },
     "id": "0Qjzt-5qf",
     "specData-price": "¥4999",
@@ -17987,13 +17987,13 @@
     "manufacturer": "Shiftall",
     "page": {
       "_id": "R-2-SjewVca",
-      "views24h": 11,
-      "views7d": 115,
-      "viewsAllTime": 5107,
+      "views24h": 15,
+      "views7d": 125,
+      "viewsAllTime": 5127,
       "url": "/headset/shiftallmeganex",
-      "analyticsLastRetrieved": "2025-02-25T13:39:41.073Z",
+      "analyticsLastRetrieved": "2025-02-26T14:18:20.221Z",
       "__v": 0,
-      "views30d": 317
+      "views30d": 328
     },
     "id": "xf2i9NZPb",
     "specData-weight": "385 g with SteamVR tracking attachment",
@@ -18055,12 +18055,12 @@
     "page": {
       "_id": "M9dgKLlP9J",
       "url": "/headset/shiftallmeganexbusinessedition",
-      "views24h": 1,
-      "views7d": 29,
-      "viewsAllTime": 1939,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.533Z",
+      "views24h": 4,
+      "views7d": 31,
+      "viewsAllTime": 1944,
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 104
+      "views30d": 108
     },
     "id": "Lm4Vl77ts",
     "specData-weight": "395 g with SteamVR tracking attachment",
@@ -18119,11 +18119,11 @@
     "page": {
       "_id": "WF0DGUxaZS",
       "url": "/headset/shiftallmeganexsuperlight8k",
-      "views24h": 38,
-      "views7d": 313,
-      "views30d": 994,
-      "viewsAllTime": 2767,
-      "analyticsLastRetrieved": "2025-02-25T12:58:04.117Z",
+      "views24h": 34,
+      "views7d": 308,
+      "views30d": 1000,
+      "viewsAllTime": 2798,
+      "analyticsLastRetrieved": "2025-02-26T13:05:19.588Z",
       "__v": 0
     },
     "id": "5rW-cbvNH",
@@ -18207,12 +18207,12 @@
     "page": {
       "_id": "4BBne77wxwv",
       "views24h": 2,
-      "views7d": 3,
-      "viewsAllTime": 827,
+      "views7d": 5,
+      "viewsAllTime": 829,
       "url": "/headset/realwearhmt-1",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "analyticsLastRetrieved": "2025-02-26T11:49:54.895Z",
       "__v": 0,
-      "views30d": 14
+      "views30d": 16
     },
     "id": "gJzO9KhG5",
     "specData-batteryCapacity": "Removable battery"
@@ -18289,11 +18289,11 @@
     "manufacturer": "RealWear",
     "page": {
       "_id": "XTiqU_VddIR",
-      "views24h": 2,
-      "views7d": 5,
+      "views24h": 0,
+      "views7d": 4,
       "viewsAllTime": 668,
       "url": "/headset/realwearhmt-1z1",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.618Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
       "views30d": 20
     },
@@ -18366,13 +18366,13 @@
     "manufacturer": "RealWear",
     "page": {
       "_id": "wAaGZx55Z4R",
-      "views24h": 3,
-      "views7d": 8,
-      "viewsAllTime": 849,
+      "views24h": 1,
+      "views7d": 6,
+      "viewsAllTime": 850,
       "url": "/headset/realwearnavigator500",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.619Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
-      "views30d": 28
+      "views30d": 29
     },
     "id": "zPABenwmr",
     "specData-batteryCapacity": "Hot-swappable battery"
@@ -18444,12 +18444,12 @@
     "page": {
       "_id": "l9T5nziNMw",
       "url": "/headset/realwearnavigator520",
-      "views24h": 3,
-      "views7d": 12,
-      "viewsAllTime": 1878,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "views24h": 1,
+      "views7d": 7,
+      "viewsAllTime": 1879,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
-      "views30d": 50
+      "views30d": 51
     },
     "id": "o9JH3GwIU",
     "specData-passthrough": "Thermal camera module sold seperately",
@@ -18522,11 +18522,11 @@
     "page": {
       "_id": "P66fhvnhp0",
       "url": "/headset/realwearnavigatorz1",
-      "views24h": 3,
+      "views24h": 0,
       "views7d": 8,
       "views30d": 50,
       "viewsAllTime": 651,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.533Z",
+      "analyticsLastRetrieved": "2025-02-26T05:44:58.436Z",
       "__v": 0
     },
     "id": "ElhWfkAbQ",
@@ -18596,13 +18596,13 @@
     "manufacturer": "Epson",
     "page": {
       "_id": "H79MMbUYXK",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 7,
       "viewsAllTime": 1085,
       "url": "/headset/epsonmoveriobt-40",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0,
-      "views30d": 64
+      "views30d": 63
     },
     "id": "Wmqx-AT6q",
     "specData-deviceType": "Can also be powered by a smartphone or tablet"
@@ -18685,11 +18685,11 @@
     "manufacturer": "Epson",
     "page": {
       "_id": "OwVwfWFUZE",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 5,
       "viewsAllTime": 925,
       "url": "/headset/epsonmoveriobt-40s",
-      "analyticsLastRetrieved": "2025-02-25T07:45:02.772Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0,
       "views30d": 44
     },
@@ -18739,11 +18739,11 @@
     "manufacturer": "VictorMaxx",
     "page": {
       "_id": "Cmtf5MfMRq",
-      "views24h": 3,
-      "views7d": 12,
+      "views24h": 0,
+      "views7d": 7,
       "viewsAllTime": 814,
       "url": "/headset/victormaxxcybermaxx",
-      "analyticsLastRetrieved": "2025-02-25T12:52:31.766Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
       "views30d": 39
     },
@@ -18810,11 +18810,11 @@
     "manufacturer": "Tilt Five",
     "page": {
       "_id": "WyNiBdxszq",
-      "views24h": 1,
+      "views24h": 0,
       "views7d": 3,
       "viewsAllTime": 1173,
       "url": "/headset/tiltfive",
-      "analyticsLastRetrieved": "2025-02-25T09:16:22.444Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0,
       "views30d": 38
     },
@@ -18869,13 +18869,13 @@
     "manufacturer": "eMagin",
     "page": {
       "_id": "9JYwEcphEO",
-      "views24h": 3,
-      "views7d": 16,
-      "viewsAllTime": 1054,
+      "views24h": 0,
+      "views7d": 11,
+      "viewsAllTime": 1055,
       "url": "/headset/emaginz8003dvisor",
-      "analyticsLastRetrieved": "2025-02-25T09:52:06.094Z",
+      "analyticsLastRetrieved": "2025-02-26T14:16:03.967Z",
       "__v": 0,
-      "views30d": 54
+      "views30d": 55
     },
     "id": "AD3Msk2wL"
   },
@@ -18932,13 +18932,13 @@
     "manufacturer": "Carl Zeiss",
     "page": {
       "_id": "sw1LdeD_d",
-      "views24h": 1,
-      "views7d": 3,
+      "views24h": 0,
+      "views7d": 2,
       "viewsAllTime": 785,
       "url": "/headset/carlzeisscinemizeroled",
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.533Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 26
+      "views30d": 23
     },
     "id": "507dOolVd",
     "specData-deviceType": "Can also be powered by a smartphone",
@@ -18995,13 +18995,13 @@
     "manufacturer": "VPL Research",
     "page": {
       "_id": "Pmdlhj0jaf",
-      "views24h": 4,
-      "views7d": 47,
-      "viewsAllTime": 4166,
+      "views24h": 2,
+      "views7d": 35,
+      "viewsAllTime": 4174,
       "url": "/headset/vpleyephone",
-      "analyticsLastRetrieved": "2025-02-25T02:05:16.233Z",
+      "analyticsLastRetrieved": "2025-02-26T03:26:26.438Z",
       "__v": 0,
-      "views30d": 174
+      "views30d": 167
     },
     "id": "0eGyGmZyU",
     "specData-price": "Includes PC system for powering the device"
@@ -19052,13 +19052,13 @@
     "manufacturer": "Virtuality",
     "page": {
       "_id": "0xXI8AFujr",
-      "views24h": 0,
+      "views24h": 1,
       "views7d": 5,
-      "viewsAllTime": 1031,
+      "viewsAllTime": 1032,
       "url": "/headset/virtualityvisette1",
-      "analyticsLastRetrieved": "2025-02-25T06:50:06.271Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
-      "views30d": 40
+      "views30d": 41
     },
     "id": "t8EgAcyke",
     "specData-price": "*1000CS. 1000SD: approx. $40000",
@@ -19121,13 +19121,13 @@
     "manufacturer": "Virtuality",
     "page": {
       "_id": "8kPLAFKZXL",
-      "views24h": 2,
-      "views7d": 10,
+      "views24h": 0,
+      "views7d": 4,
       "viewsAllTime": 718,
       "url": "/headset/virtualityvisette2",
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.531Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
-      "views30d": 36
+      "views30d": 35
     },
     "id": "LulGNeji_",
     "specData-deviceType": "Powered by an accompanying IBM PC"
@@ -19184,13 +19184,13 @@
     "manufacturer": "Snap Inc",
     "page": {
       "_id": "LJnMRg2HoG",
-      "views24h": 0,
-      "views7d": 8,
-      "viewsAllTime": 1357,
+      "views24h": 4,
+      "views7d": 9,
+      "viewsAllTime": 1361,
       "url": "/headset/snapspectacles(2021)",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.460Z",
       "__v": 0,
-      "views30d": 73
+      "views30d": 77
     },
     "id": "Hz5LNjh9Y",
     "specData-storage": "Limited to 100 videos or 100 photos",
@@ -19237,13 +19237,13 @@
     "manufacturer": "AjnaLens",
     "page": {
       "_id": "p9_FPBC67U",
-      "views24h": 2,
-      "views7d": 6,
-      "viewsAllTime": 632,
+      "views24h": 1,
+      "views7d": 7,
+      "viewsAllTime": 633,
       "url": "/headset/ajnalensajnax",
-      "analyticsLastRetrieved": "2025-02-25T11:43:45.751Z",
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0,
-      "views30d": 33
+      "views30d": 32
     },
     "id": "vH20M2KPj"
   },
@@ -19316,12 +19316,12 @@
     "page": {
       "_id": "aAt0jnBTqt",
       "url": "/headset/ajnalensajnaxr",
-      "views24h": 0,
-      "views7d": 7,
-      "viewsAllTime": 2533,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "views24h": 5,
+      "views7d": 10,
+      "viewsAllTime": 2538,
+      "analyticsLastRetrieved": "2025-02-26T14:31:02.786Z",
       "__v": 0,
-      "views30d": 58
+      "views30d": 61
     },
     "id": "LwELh8ySU",
     "specData-headstrap": "Includes battery counterweight",
@@ -19398,12 +19398,12 @@
     "page": {
       "_id": "a9pwYmLHIs",
       "url": "/headset/ajnaxrenterpriseedition",
-      "views24h": 2,
-      "views7d": 15,
+      "views24h": 0,
+      "views7d": 10,
       "viewsAllTime": 2262,
-      "analyticsLastRetrieved": "2025-02-25T02:09:01.739Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 54
+      "views30d": 52
     },
     "id": "ngaqL1kLw",
     "specData-headstrap": "Includes battery counterweight",
@@ -19460,11 +19460,11 @@
     "manufacturer": "Iristick",
     "page": {
       "_id": "BvAx5VCl9T",
-      "views24h": 1,
-      "views7d": 3,
+      "views24h": 0,
+      "views7d": 1,
       "viewsAllTime": 465,
       "url": "/headset/iristickg2",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.484Z",
       "__v": 0,
       "views30d": 17
     },
@@ -19514,12 +19514,12 @@
     "page": {
       "_id": "eqwyR2kxhX",
       "views24h": 8,
-      "views7d": 25,
-      "viewsAllTime": 2294,
+      "views7d": 28,
+      "viewsAllTime": 2299,
       "url": "/headset/campfireheadset",
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.485Z",
       "__v": 0,
-      "views30d": 82
+      "views30d": 84
     },
     "id": "eANw0hTFv",
     "specData-price": "$15,000 annual license, includes two units",
@@ -19596,9 +19596,9 @@
       "views24h": 0,
       "views7d": 1,
       "viewsAllTime": 633,
-      "analyticsLastRetrieved": "2025-02-25T12:44:23.452Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.485Z",
       "__v": 0,
-      "views30d": 27
+      "views30d": 26
     },
     "id": "BVmjI_Ogd",
     "specData-controllerWeight": "135 g excluding batteries"
@@ -19674,12 +19674,12 @@
     "page": {
       "_id": "4x4s-LgIU",
       "url": "/headset/vitureone",
-      "views24h": 18,
-      "views7d": 81,
-      "viewsAllTime": 8614,
-      "analyticsLastRetrieved": "2025-02-25T06:28:49.962Z",
+      "views24h": 13,
+      "views7d": 78,
+      "viewsAllTime": 8629,
+      "analyticsLastRetrieved": "2025-02-26T08:14:49.262Z",
       "__v": 0,
-      "views30d": 287
+      "views30d": 296
     },
     "id": "5BNm8a3Zr",
     "specData-price": "$568 with neckband OR mobile dock.   $677 with neckband AND mobile dock.",
@@ -19761,11 +19761,11 @@
     "page": {
       "_id": "fzwxmes1HD",
       "url": "/headset/vitureonelite",
-      "views24h": 13,
-      "views7d": 42,
+      "views24h": 7,
+      "views7d": 40,
       "views30d": 159,
-      "viewsAllTime": 3587,
-      "analyticsLastRetrieved": "2025-02-25T07:42:26.448Z",
+      "viewsAllTime": 3596,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0
     },
     "id": "jjR57q0sj",
@@ -19832,11 +19832,11 @@
     "page": {
       "_id": "gVSPB99puw",
       "url": "/headset/viturepro",
-      "views24h": 38,
-      "views7d": 190,
-      "views30d": 856,
-      "viewsAllTime": 10423,
-      "analyticsLastRetrieved": "2025-02-25T10:02:24.931Z",
+      "views24h": 56,
+      "views7d": 192,
+      "views30d": 868,
+      "viewsAllTime": 10470,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0
     },
     "id": "_IiTfLZMZ",
@@ -19898,12 +19898,12 @@
     "page": {
       "_id": "cmhhNNqqOV",
       "url": "/headset/julboevad-1",
-      "views24h": 3,
+      "views24h": 0,
       "views7d": 9,
       "viewsAllTime": 565,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.485Z",
       "__v": 0,
-      "views30d": 33
+      "views30d": 32
     },
     "id": "6z7r29ojZ"
   },
@@ -19967,12 +19967,12 @@
     "page": {
       "_id": "8ZtgCCA5rC",
       "url": "/headset/tclnxtwears",
-      "views24h": 3,
-      "views7d": 25,
-      "viewsAllTime": 3765,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.532Z",
+      "views24h": 5,
+      "views7d": 29,
+      "viewsAllTime": 3769,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.763Z",
       "__v": 0,
-      "views30d": 131
+      "views30d": 133
     },
     "id": "x7KWR1zVL",
     "specData-deviceType": "Can also be powered by a laptop, tablet or console",
@@ -20044,10 +20044,10 @@
     "page": {
       "_id": "xkMTBU8no7",
       "url": "/headset/tclnxtwearg",
-      "views24h": 6,
-      "views7d": 19,
-      "viewsAllTime": 1586,
-      "analyticsLastRetrieved": "2025-02-25T13:15:59.906Z",
+      "views24h": 3,
+      "views7d": 20,
+      "viewsAllTime": 1587,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.485Z",
       "__v": 0,
       "views30d": 72
     },
@@ -20127,11 +20127,11 @@
       "_id": "ciwnP4F7L",
       "url": "/headset/tclnxtwearv",
       "views24h": 11,
-      "views7d": 50,
-      "viewsAllTime": 3173,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.620Z",
+      "views7d": 52,
+      "viewsAllTime": 3182,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.485Z",
       "__v": 0,
-      "views30d": 198
+      "views30d": 197
     },
     "id": "Dnsbasmiv",
     "specData-headstrap": "Includes battery counterweight"
@@ -20190,12 +20190,12 @@
     "page": {
       "_id": "w2izb3u55",
       "url": "/headset/tclrayneox2",
-      "views24h": 5,
-      "views7d": 122,
-      "viewsAllTime": 13399,
-      "analyticsLastRetrieved": "2025-02-25T06:08:19.490Z",
+      "views24h": 22,
+      "views7d": 115,
+      "viewsAllTime": 13422,
+      "analyticsLastRetrieved": "2025-02-26T08:56:59.626Z",
       "__v": 0,
-      "views30d": 641
+      "views30d": 648
     },
     "id": "xo3cio_3V"
   },
@@ -20250,10 +20250,10 @@
       "_id": "5cbSvTFJG",
       "url": "/headset/tclrayneox2lite",
       "views24h": 12,
-      "views7d": 71,
-      "views30d": 263,
-      "viewsAllTime": 3720,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.621Z",
+      "views7d": 59,
+      "views30d": 266,
+      "viewsAllTime": 3728,
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.460Z",
       "__v": 0
     },
     "id": "rNPYFiTHx"
@@ -20327,11 +20327,11 @@
       "_id": "zy_OLxiK8n",
       "url": "/headset/skyworthw1",
       "views24h": 0,
-      "views7d": 3,
+      "views7d": 2,
       "viewsAllTime": 410,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.621Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.486Z",
       "__v": 0,
-      "views30d": 14
+      "views30d": 11
     },
     "id": "AkXa1wN-I"
   },
@@ -20403,10 +20403,10 @@
     "page": {
       "_id": "G1vgmtffd",
       "url": "/headset/skyworthw1pro",
-      "views24h": 1,
-      "views7d": 6,
+      "views24h": 0,
+      "views7d": 2,
       "viewsAllTime": 1063,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.532Z",
+      "analyticsLastRetrieved": "2025-02-26T11:52:19.286Z",
       "__v": 0,
       "views30d": 61
     },
@@ -20490,11 +20490,11 @@
       "_id": "Qc8KQpBgXP",
       "url": "/headset/skyworthpancake1",
       "views24h": 0,
-      "views7d": 11,
+      "views7d": 8,
       "viewsAllTime": 2440,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.534Z",
+      "analyticsLastRetrieved": "2025-02-26T04:56:40.295Z",
       "__v": 0,
-      "views30d": 52
+      "views30d": 49
     },
     "id": "Ufhc5RvN8",
     "specData-price": "¥3999",
@@ -20580,12 +20580,12 @@
     "page": {
       "_id": "KN0uAHseyy",
       "url": "/headset/skyworthpancake1c",
-      "views24h": 0,
-      "views7d": 0,
-      "viewsAllTime": 1519,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.622Z",
+      "views24h": 5,
+      "views7d": 5,
+      "viewsAllTime": 1524,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.486Z",
       "__v": 0,
-      "views30d": 51
+      "views30d": 55
     },
     "id": "Qzq-XNXnk",
     "specData-price": "¥2999",
@@ -20671,8 +20671,8 @@
       "url": "/headset/skyworthpancake1pro",
       "views24h": 0,
       "views7d": 14,
-      "viewsAllTime": 1842,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.534Z",
+      "viewsAllTime": 1843,
+      "analyticsLastRetrieved": "2025-02-26T05:15:47.782Z",
       "__v": 0,
       "views30d": 64
     },
@@ -20733,12 +20733,12 @@
     "page": {
       "_id": "xfZmOXzl3M",
       "url": "/headset/sensicspisight",
-      "views24h": 2,
-      "views7d": 16,
-      "viewsAllTime": 1392,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.532Z",
+      "views24h": 4,
+      "views7d": 12,
+      "viewsAllTime": 1394,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.764Z",
       "__v": 0,
-      "views30d": 56
+      "views30d": 58
     },
     "id": "VIIwdO8xk",
     "specData-price": "Price varies significantly based on model. Approx. $20,000-$220,000",
@@ -20800,11 +20800,11 @@
       "_id": "81Xl39yfEd",
       "url": "/headset/guangliholoswim2",
       "views24h": 4,
-      "views7d": 22,
-      "viewsAllTime": 1592,
-      "analyticsLastRetrieved": "2025-02-25T08:08:02.417Z",
+      "views7d": 19,
+      "viewsAllTime": 1599,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.764Z",
       "__v": 0,
-      "views30d": 84
+      "views30d": 91
     },
     "id": "HfZ2Dqm1q",
     "specData-deviceType": "Can be paired with a smartphone via Holoswim app"
@@ -20856,12 +20856,12 @@
     "page": {
       "_id": "sjUWEWN-hr",
       "url": "/headset/guangliholoswim",
-      "views24h": 1,
-      "views7d": 10,
-      "viewsAllTime": 671,
-      "analyticsLastRetrieved": "2025-02-25T11:29:41.869Z",
+      "views24h": 2,
+      "views7d": 9,
+      "viewsAllTime": 673,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.486Z",
       "__v": 0,
-      "views30d": 25
+      "views30d": 27
     },
     "id": "ZkO_SfqaC",
     "specData-adjustableDiopter": "Prescription lenses optional",
@@ -20937,12 +20937,12 @@
     "page": {
       "_id": "nazNuj2oMi",
       "url": "/headset/yvr2",
-      "views24h": 23,
-      "views7d": 98,
-      "viewsAllTime": 3588,
-      "analyticsLastRetrieved": "2025-02-25T13:12:39.933Z",
+      "views24h": 5,
+      "views7d": 85,
+      "viewsAllTime": 3594,
+      "analyticsLastRetrieved": "2025-02-26T13:55:05.848Z",
       "__v": 0,
-      "views30d": 203
+      "views30d": 209
     },
     "id": "expapxz54",
     "specData-price": "¥4,999",
@@ -21017,12 +21017,12 @@
     "page": {
       "_id": "1ejcBl-41h",
       "url": "/headset/yvr1",
-      "views24h": 0,
-      "views7d": 54,
-      "viewsAllTime": 2749,
-      "analyticsLastRetrieved": "2025-02-25T10:52:58.123Z",
+      "views24h": 7,
+      "views7d": 41,
+      "viewsAllTime": 2758,
+      "analyticsLastRetrieved": "2025-02-26T11:31:32.515Z",
       "__v": 0,
-      "views30d": 207
+      "views30d": 214
     },
     "id": "FIC9Z596u",
     "specData-price": "¥3,999"
@@ -21085,12 +21085,12 @@
     "page": {
       "_id": "EFYdbYixID",
       "url": "/headset/ximmerserhinoxpro",
-      "views24h": 8,
-      "views7d": 29,
-      "viewsAllTime": 2894,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.534Z",
+      "views24h": 2,
+      "views7d": 30,
+      "viewsAllTime": 2896,
+      "analyticsLastRetrieved": "2025-02-26T05:06:24.711Z",
       "__v": 0,
-      "views30d": 102
+      "views30d": 104
     },
     "id": "rR39x5VXi",
     "specData-storage": "256 GB also available"
@@ -21145,12 +21145,12 @@
     "page": {
       "_id": "buSePe-Q3g",
       "url": "/headset/nimo",
-      "views24h": 5,
-      "views7d": 29,
-      "viewsAllTime": 2534,
-      "analyticsLastRetrieved": "2025-02-25T12:20:13.166Z",
+      "views24h": 8,
+      "views7d": 30,
+      "viewsAllTime": 2541,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.486Z",
       "__v": 0,
-      "views30d": 135
+      "views30d": 138
     },
     "id": "PRD287sFm",
     "specData-controllers": "Uses smartphone as a controller"
@@ -21207,12 +21207,12 @@
     "page": {
       "_id": "Qt_BVuVRk7",
       "url": "/headset/nueyespro3e",
-      "views24h": 2,
+      "views24h": 0,
       "views7d": 9,
       "viewsAllTime": 943,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.622Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.486Z",
       "__v": 0,
-      "views30d": 36
+      "views30d": 34
     },
     "id": "oqaLcHVYE",
     "specData-deviceType": "Can also be powered by a tablet or PC"
@@ -21268,12 +21268,12 @@
     "page": {
       "_id": "W0t5YS8f7x",
       "url": "/headset/brilliantmonocle",
-      "views24h": 5,
-      "views7d": 19,
-      "viewsAllTime": 2614,
-      "analyticsLastRetrieved": "2025-02-25T13:15:51.920Z",
+      "views24h": 7,
+      "views7d": 20,
+      "viewsAllTime": 2618,
+      "analyticsLastRetrieved": "2025-02-26T14:38:45.159Z",
       "__v": 0,
-      "views30d": 90
+      "views30d": 92
     },
     "id": "Q9zkHODZI",
     "specData-ports": "Charging case includes USB Type-C port",
@@ -21334,10 +21334,10 @@
       "_id": "7izE36PMKu",
       "url": "/headset/brilliantlabsframe",
       "views24h": 16,
-      "views7d": 60,
-      "views30d": 255,
-      "viewsAllTime": 2600,
-      "analyticsLastRetrieved": "2025-02-25T07:23:16.622Z",
+      "views7d": 70,
+      "views30d": 262,
+      "viewsAllTime": 2615,
+      "analyticsLastRetrieved": "2025-02-26T07:58:16.765Z",
       "__v": 0
     },
     "id": "BE0kbfi2T",
@@ -21397,11 +21397,11 @@
       "_id": "-0OWGrZYOX",
       "url": "/headset/tqskyt1",
       "views24h": 0,
-      "views7d": 2,
-      "viewsAllTime": 923,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.532Z",
+      "views7d": 3,
+      "viewsAllTime": 924,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.487Z",
       "__v": 0,
-      "views30d": 26
+      "views30d": 27
     },
     "id": "rAxPHOG0_"
   },
@@ -21460,12 +21460,12 @@
     "page": {
       "_id": "-PO3U9_gyV",
       "url": "/headset/digilensargo",
-      "views24h": 16,
-      "views7d": 61,
-      "viewsAllTime": 3689,
-      "analyticsLastRetrieved": "2025-02-25T07:12:59.764Z",
+      "views24h": 13,
+      "views7d": 75,
+      "viewsAllTime": 3707,
+      "analyticsLastRetrieved": "2025-02-26T10:08:33.243Z",
       "__v": 0,
-      "views30d": 278
+      "views30d": 291
     },
     "id": "suVKDU_0P",
     "specData-adjustableDiopter": "Prescription inserts available"
@@ -21532,12 +21532,12 @@
     "page": {
       "_id": "qmz7benK7M",
       "url": "/headset/bigscreenbeyond",
-      "views24h": 26,
-      "views7d": 118,
-      "viewsAllTime": 21160,
-      "analyticsLastRetrieved": "2025-02-25T04:22:45.781Z",
+      "views24h": 12,
+      "views7d": 110,
+      "viewsAllTime": 21176,
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
-      "views30d": 573
+      "views30d": 570
     },
     "id": "uQn8c_Ufb",
     "specData-adjustableDiopter": "Prescription lens inserts available",
@@ -21601,10 +21601,10 @@
     "page": {
       "_id": "r_ItYdnhlQ",
       "url": "/headset/p&csolutionmetalense",
-      "views24h": 3,
+      "views24h": 0,
       "views7d": 11,
       "viewsAllTime": 886,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.534Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.517Z",
       "__v": 0,
       "views30d": 34
     },
@@ -21662,11 +21662,11 @@
       "_id": "t4U8L5nyK1",
       "url": "/headset/virtualresearchflighthelmet",
       "views24h": 0,
-      "views7d": 10,
+      "views7d": 7,
       "viewsAllTime": 3153,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.622Z",
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.487Z",
       "__v": 0,
-      "views30d": 53
+      "views30d": 51
     },
     "id": "M6kxZIEny",
     "specData-weight": "2040 g with cable"
@@ -21725,9 +21725,9 @@
       "views24h": 0,
       "views7d": 3,
       "viewsAllTime": 608,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.534Z",
+      "analyticsLastRetrieved": "2025-02-26T06:27:33.518Z",
       "__v": 0,
-      "views30d": 21
+      "views30d": 15
     },
     "id": "xUedlnDGs"
   },
@@ -21791,11 +21791,11 @@
     "page": {
       "_id": "Xci_jzz86l",
       "url": "/headset/thunderbirdairplus",
-      "views24h": 6,
-      "views7d": 52,
-      "views30d": 196,
-      "viewsAllTime": 4555,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.532Z",
+      "views24h": 7,
+      "views7d": 44,
+      "views30d": 200,
+      "viewsAllTime": 4561,
+      "analyticsLastRetrieved": "2025-02-26T14:00:11.460Z",
       "__v": 0
     },
     "id": "Rz1MDcJer",
@@ -21878,11 +21878,11 @@
     "page": {
       "_id": "-xFHV8DfD-",
       "url": "/headset/spacetop",
-      "views24h": 6,
-      "views7d": 17,
-      "views30d": 75,
-      "viewsAllTime": 2001,
-      "analyticsLastRetrieved": "2025-02-25T03:11:31.534Z",
+      "views24h": 0,
+      "views7d": 18,
+      "views30d": 73,
+      "viewsAllTime": 2003,
+      "analyticsLastRetrieved": "2025-02-26T03:47:35.821Z",
       "__v": 0
     },
     "id": "MRE_j97gq",
@@ -21953,11 +21953,11 @@
     "page": {
       "_id": "5ItIVxmr_j",
       "url": "/headset/spacetopg1",
-      "views24h": 12,
-      "views7d": 33,
-      "views30d": 135,
-      "viewsAllTime": 2165,
-      "analyticsLastRetrieved": "2025-02-25T09:24:48.532Z",
+      "views24h": 4,
+      "views7d": 32,
+      "views30d": 137,
+      "viewsAllTime": 2168,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.488Z",
       "__v": 0
     },
     "id": "wrjEu415W",
@@ -22043,11 +22043,11 @@
     "page": {
       "_id": "ugSVKWgo-",
       "url": "/headset/applevisionpro",
-      "views24h": 16,
-      "views7d": 109,
-      "views30d": 522,
-      "viewsAllTime": 29522,
-      "analyticsLastRetrieved": "2025-02-25T05:05:25.552Z",
+      "views24h": 18,
+      "views7d": 112,
+      "views30d": 523,
+      "viewsAllTime": 29544,
+      "analyticsLastRetrieved": "2025-02-26T06:19:17.232Z",
       "__v": 0
     },
     "id": "8aL1JxO3T",
@@ -22110,11 +22110,11 @@
     "page": {
       "_id": "4gI94eC9hR",
       "url": "/headset/nubianeovisionglass",
-      "views24h": 3,
-      "views7d": 8,
-      "views30d": 50,
-      "viewsAllTime": 3456,
-      "analyticsLastRetrieved": "2025-02-25T13:42:10.623Z",
+      "views24h": 4,
+      "views7d": 10,
+      "views30d": 54,
+      "viewsAllTime": 3460,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.488Z",
       "__v": 0
     },
     "id": "vn_zQOTOV",
@@ -22169,11 +22169,11 @@
     "page": {
       "_id": "3KvszrKR35",
       "url": "/headset/immersedvisor",
-      "views24h": 17,
-      "views7d": 78,
-      "views30d": 327,
-      "viewsAllTime": 8738,
-      "analyticsLastRetrieved": "2025-02-25T06:49:20.184Z",
+      "views24h": 7,
+      "views7d": 69,
+      "views30d": 330,
+      "viewsAllTime": 8748,
+      "analyticsLastRetrieved": "2025-02-26T08:16:22.559Z",
       "__v": 0
     },
     "id": "tETILGw-r",
@@ -22242,11 +22242,11 @@
     "page": {
       "_id": "QQAauEbo0",
       "url": "/headset/xrealair2",
-      "views24h": 9,
-      "views7d": 78,
-      "views30d": 314,
-      "viewsAllTime": 10424,
-      "analyticsLastRetrieved": "2025-02-25T11:32:25.164Z",
+      "views24h": 10,
+      "views7d": 61,
+      "views30d": 318,
+      "viewsAllTime": 10434,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.764Z",
       "__v": 0
     },
     "id": "PnnMj9eH3",
@@ -22308,11 +22308,11 @@
     "page": {
       "_id": "V5JvNGs8kq",
       "url": "/headset/xrealair2pro",
-      "views24h": 9,
-      "views7d": 55,
-      "views30d": 372,
-      "viewsAllTime": 17555,
-      "analyticsLastRetrieved": "2025-02-25T12:43:17.558Z",
+      "views24h": 20,
+      "views7d": 66,
+      "views30d": 392,
+      "viewsAllTime": 17577,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.489Z",
       "__v": 0
     },
     "id": "E7k3-VKas",
@@ -22376,11 +22376,11 @@
     "page": {
       "_id": "h7n3V7pnV2",
       "url": "/headset/xrealair2ultra",
-      "views24h": 41,
-      "views7d": 304,
-      "views30d": 1479,
-      "viewsAllTime": 21783,
-      "analyticsLastRetrieved": "2025-02-25T13:36:51.056Z",
+      "views24h": 86,
+      "views7d": 311,
+      "views30d": 1528,
+      "viewsAllTime": 21862,
+      "analyticsLastRetrieved": "2025-02-26T14:39:27.489Z",
       "__v": 0
     },
     "id": "LUx-f7dXc",
@@ -22447,11 +22447,11 @@
     "page": {
       "_id": "FUWlYhnZj4",
       "url": "/headset/xeobig",
-      "views24h": 10,
-      "views7d": 46,
-      "views30d": 293,
-      "viewsAllTime": 530,
-      "analyticsLastRetrieved": "2025-02-25T10:54:04.071Z",
+      "views24h": 9,
+      "views7d": 49,
+      "views30d": 292,
+      "viewsAllTime": 539,
+      "analyticsLastRetrieved": "2025-02-26T12:17:00.768Z",
       "__v": 0
     },
     "id": "5Io2IdZ7U",
